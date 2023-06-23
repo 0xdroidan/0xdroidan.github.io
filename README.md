@@ -20,6 +20,11 @@ To save you time, and also in case you lose some files while copying, we extract
 
 Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
 
+https://chirpy.cotes.page/
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists
+https://github.com/jekyll/jekyll-compose
+
 ## Installation
 
 Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it `USERNAME.github.io`, where `USERNAME` represents your GitHub username.
