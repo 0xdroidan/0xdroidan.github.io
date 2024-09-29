@@ -33,6 +33,7 @@ Then clone it to your local machine and run:
 
 ```
 $ bundle
+$ bundle exec jekyll serve
 ```
 
 ## Usage
