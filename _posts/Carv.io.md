@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Carv.io"
-date: unknown
+date: 2024-12-24 03:21:08 +0530
 categories: [unclassified]
 tags: [all,unclassified]
 
@@ -37,4 +37,3 @@ For checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/) 
 ## [Criteria For Airdrop](link)
 
 ## Any other links
-                        
