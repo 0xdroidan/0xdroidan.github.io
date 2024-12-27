@@ -22,9 +22,9 @@ Number of Claimants : not known
 
 ## Airdrop Timeline
 
-| Blockchain snapshot     | Claiming Started           | Claiming ends    |
-| ----------------------- |:--------------------------:| ----------------:|
-|       not known         |        not known           |   not known      |
+| Blockchain snapshot | Claiming Started  | Claiming ends |
+| ------------------- | :---------------: | ------------: |
+| December 12, 2024   | December 16, 2024 |     not known |
 
 ## Amount Received in tokens
 
