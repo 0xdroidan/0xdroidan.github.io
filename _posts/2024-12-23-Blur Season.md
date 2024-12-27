@@ -37,3 +37,4 @@ For checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/) 
 ## [Criteria For Airdrop](link)
 
 ## Any other links
+https://x.com/blur_io/status/1625566146241114112

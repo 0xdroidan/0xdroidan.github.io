@@ -37,3 +37,4 @@ For checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/) 
 ## [Criteria For Airdrop](link)
 
 ## Any other links
+https://x.com/odosdao/status/1867300703401914633

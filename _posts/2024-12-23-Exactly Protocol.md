@@ -37,3 +37,4 @@ For checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/) 
 ## [Criteria For Airdrop](link)
 
 ## Any other links
+https://x.com/ExactlyProtocol/status/1683878900223418368
