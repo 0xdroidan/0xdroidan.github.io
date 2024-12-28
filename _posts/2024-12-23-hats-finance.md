@@ -2,9 +2,11 @@
 layout: post
 title: Hats finance
 date: 2023-05-05 04:33 +0530
-categories: [blockchain, layer_level]
+categories: ['uncategorized']
 tags: [all,unfinishedc, layer_level,blockchain,year] 
 ---
+
+
 
 
 ## [Project Website](https://hats.finance/)

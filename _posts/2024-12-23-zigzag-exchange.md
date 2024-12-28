@@ -2,9 +2,11 @@
 layout: post
 title: ZigZag Exchange
 date: 2023-05-05 05:36 +0530
-categories: [dex]
-tags: [all,need_updates, dex,2k23] 
+categories: ['defi', 'dex']
+tags: [all,need_updates, dex,2k23]
 ---
+
+
 
 
 ## [Project Website](https://trade.zigzag.exchange/)
@@ -30,7 +32,7 @@ Retroactive
 | ----------------------- |:--------------------------:| ----------------:|
 |       not known         |        not known           |   not known      |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

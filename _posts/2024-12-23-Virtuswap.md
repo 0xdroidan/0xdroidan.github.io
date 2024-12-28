@@ -2,10 +2,12 @@
 layout: post
 title: "Virtuswap"
 date: 2023-05-22
-categories: [DEX]
+categories: ['defi', 'dex']
 tags: [all]
 
 ---
+
+
 
 ## [Project Website](link)
 

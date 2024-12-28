@@ -2,9 +2,11 @@
 layout: post
 title: "Internet Computer"
 date: 2021-05-11 03:21:08 +0530
-categories: [layer_1]
+categories: ['uncategorized']
 tags: [all,2k18] # Tag names should always be lowercase
 ---
+
+
 
 ## [Internet Computer Website](https://dfinity.org/)
 

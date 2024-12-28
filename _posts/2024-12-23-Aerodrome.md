@@ -2,10 +2,12 @@
 layout: post
 title: "Aerodrome"
 date: 2023-08-05
-categories: [DEX]
+categories: ['defi', 'liquidity', 'yield-farming']
 tags: [all]
 
 ---
+
+
 
 ## [Project Website](link)
 

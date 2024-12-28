@@ -2,10 +2,12 @@
 layout: post
 title: "BlockGames"
 date: 2024-04-08
-categories: [unclassified]
+categories: ['gaming', 'platform']
 tags: [all,unclassified]
 
 ---
+
+
 
 
 ## [Project Website](link)

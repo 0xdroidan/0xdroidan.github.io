@@ -2,9 +2,11 @@
 layout: post
 title: Sturdy Finance
 date: 2022-11-21 05:44 +0530
-categories: [lending]
+categories: ['uncategorized']
 tags: [all,need_updates,lending] 
 ---
+
+
 
 
 ## [Project Website](sturdy.finance)

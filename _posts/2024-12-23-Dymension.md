@@ -2,10 +2,12 @@
 layout: post
 title: "Dymension"
 date: 2024-01-02
-categories: []
+categories: ['layer-1', 'rollup']
 tags: [all]
 
 ---
+
+
 
 ## [Project Website](link)
 

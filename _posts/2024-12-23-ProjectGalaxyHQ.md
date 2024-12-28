@@ -2,10 +2,12 @@
 layout: post
 title: "ProjectGalaxyHQ"
 date: 2024-12-24 03:21:08 +0530
-categories: [unclassified]
+categories: ['nft', 'platform', 'marketplace']
 tags: [all,unclassified]
 
 ---
+
+
 
 ## [Project Website](link)
 

@@ -2,10 +2,12 @@
 layout: post
 title: "WalletConnect"
 date: 2024-11-27
-categories: [Wallet]
+categories: ['infrastructure', 'wallet', 'protocol']
 tags: [all]
 
 ---
+
+
 
 ## [Project Website](link)
 

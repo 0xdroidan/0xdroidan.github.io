@@ -2,10 +2,12 @@
 layout: post
 title: "Synfutures"
 date: 2024-12-06
-categories: [unclassified]
+categories: ['uncategorized']
 tags: [all,unclassified]
 
 ---
+
+
 
 
 ## [Project Website](link)

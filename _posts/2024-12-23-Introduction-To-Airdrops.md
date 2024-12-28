@@ -2,10 +2,12 @@
 layout: post
 title: "Introduction To Airdrops"
 date: 2017-04-08 03:21:08 +0530
-categories: [fundamentals,introduction]
+categories: ['uncategorized']
 tags: [basics,introduction] # Tag names should always be lowercase
 pin: true
 ---
+
+
 
 A cryptocurrency airdrop is a free distribution of tokens or coins to wallet addresses. It is a marketing strategy used by blockchain-based projects to promote awareness and adoption of their tokens.
 

@@ -2,10 +2,12 @@
 layout: post
 title: "GameSwift"
 date: 2023-07-15
-categories: [GameFi]
+categories: ['gaming', 'infrastructure']
 tags: [all]
 
 ---
+
+
 
 ## [Project Website](link)
 

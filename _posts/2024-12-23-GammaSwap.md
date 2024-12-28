@@ -2,10 +2,12 @@
 layout: post
 title: "GammaSwap"
 date: 2024-08-28
-categories: [Perps]
+categories: ['defi', 'options', 'futures']
 tags: [all]
 
 ---
+
+
 
 ## [Project Website](link)
 

@@ -2,10 +2,12 @@
 layout: post
 title: "Holdstation"
 date: 2023-11-27 03:21:08 +0530
-categories: [unclassified]
+categories: ['infrastructure', 'wallet']
 tags: [all,unclassified]
 
 ---
+
+
 
 ## [Project Website](link)
 

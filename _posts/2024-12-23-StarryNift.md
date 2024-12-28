@@ -2,10 +2,12 @@
 layout: post
 title: "StarryNift"
 date: 2024-09-20
-categories: [unclassified]
+categories: ['nft', 'platform']
 tags: [all,unclassified]
 
 ---
+
+
 
 
 ## [Project Website](link)

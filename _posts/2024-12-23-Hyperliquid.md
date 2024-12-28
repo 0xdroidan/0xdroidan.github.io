@@ -2,10 +2,12 @@
 layout: post
 title: "Hyperliquid"
 date: 2024-11-29
-categories: [unclassified]
+categories: ['defi', 'trading']
 tags: [all,unclassified]
 
 ---
+
+
 
 
 ## [Project Website](link)

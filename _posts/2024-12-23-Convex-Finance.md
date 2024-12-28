@@ -2,9 +2,11 @@
 layout: post
 title: Convex Finance
 date: 2023-04-08 03:21:08 +0530
-categories: [blockchain, layer_level]
+categories: ['defi', 'yield', 'optimizer']
 tags: [all,layer_level,blockchain,year] 
 ---
+
+
 
 
 ## [Project Website](link)

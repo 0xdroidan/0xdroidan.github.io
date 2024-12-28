@@ -2,10 +2,12 @@
 layout: post
 title: "Animeswap"
 date: 2022-10-19
-categories: [unclassified]
+categories: ['defi', 'dex']
 tags: [all,unclassified]
 
 ---
+
+
 
 
 ## [Project Website](link)

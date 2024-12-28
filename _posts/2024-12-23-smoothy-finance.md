@@ -2,9 +2,11 @@
 layout: post
 title: Smoothy Finance
 date: 2023-05-05 05:10 +0530
-categories: [blockchain, layer_level]
-tags: [all,unfinishedc, layer_level,blockchain,year] 
+categories: ['defi', 'yield', 'aggregation']
+tags: [all,unfinishedc, layer_level,blockchain,year]
 ---
+
+
 
 
 ## [Project Website](https://smoothy.finance/)
@@ -26,7 +28,7 @@ Number of Claimants : not known
 | ----------------------- |:--------------------------:| ----------------:|
 |       not known         |        not known           |   not known      |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

@@ -2,10 +2,12 @@
 layout: post
 title: "EigenLayer"
 date: 2024-09-17
-categories: [unclassified]
+categories: ['defi', 'staking', 'restaking']
 tags: [all,unclassified]
 
 ---
+
+
 
 
 ## [Project Website](link)

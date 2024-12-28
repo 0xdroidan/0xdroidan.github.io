@@ -2,9 +2,11 @@
 layout: post
 title: "DappRadar"
 date: 2023-04-08 03:21:08 +0530
-categories: [ethereum]
+categories: ['infrastructure', 'analytics', 'dapps']
 tags: [all,2k21] # Tag names should always be lowercase
 ---
+
+
 
 ## [Project Website](https://dappradar.com/)
 

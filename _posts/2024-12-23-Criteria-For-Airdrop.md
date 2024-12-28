@@ -2,10 +2,12 @@
 layout: post
 title: "Criteria For Airdrops"
 date: 2017-04-09 03:21:08 +0530
-categories: [fundamentals, criteria]
+categories: ['uncategorized']
 tags: [basics,introduction] # Tag names should always be lowercase
 pin: true
 ---
+
+
 
 The criteria that projects use to determine who is eligible for an airdrop:
 

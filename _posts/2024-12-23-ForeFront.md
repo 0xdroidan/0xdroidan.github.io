@@ -2,9 +2,11 @@
 layout: post
 title: "ForeFront"
 date: 2023-04-08 03:21:08 +0530
-categories: [blockchain]
+categories: ['defi', 'venture-capital', 'community']
 tags: [all,layer_level,blockchain,type] # Tag names should always be lowercase
 ---
+
+
 
 ## [Project Website](https://www.forefront.market/)
 

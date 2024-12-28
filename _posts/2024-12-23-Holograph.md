@@ -2,10 +2,12 @@
 layout: post
 title: "Holograph"
 date: 2024-05-13
-categories: [unclassified]
+categories: ['infrastructure', 'cross-chain']
 tags: [all,unclassified]
 
 ---
+
+
 
 
 ## [Project Website](link)

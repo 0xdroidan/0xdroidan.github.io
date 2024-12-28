@@ -2,9 +2,11 @@
 layout: post
 title: "InverseFinance"
 date: 2023-04-08 03:21:08 +0530
-categories: [layer_level,blockchain,type]
+categories: ['uncategorized']
 tags: [all,unfinishedc, layer_level,blockchain,type] # Tag names should always be lowercase
 ---
+
+
 
 ## [Project Website](https://www.inverse.finance/)
 

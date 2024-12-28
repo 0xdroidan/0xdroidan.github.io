@@ -2,10 +2,12 @@
 layout: post
 title: "LayerZero"
 date: 2024-09-21
-categories: [Bridge]
+categories: ['infrastructure', 'cross-chain']
 tags: [all]
 
 ---
+
+
 
 ## [Project Website](link)
 

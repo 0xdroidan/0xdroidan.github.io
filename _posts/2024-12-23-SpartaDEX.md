@@ -2,10 +2,12 @@
 layout: post
 title: "SpartaDEX"
 date: 2023-07-21
-categories: [DEX,GameFi]
+categories: ['defi', 'dex']
 tags: [all]
 
 ---
+
+
 
 ## [Project Website](link)
 

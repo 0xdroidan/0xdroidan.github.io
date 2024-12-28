@@ -2,10 +2,12 @@
 layout: post
 title: "EtherMail"
 date: 2024-06-13
-categories: [unclassified]
+categories: ['social', 'communication']
 tags: [all,unclassified]
 
 ---
+
+
 
 
 ## [Project Website](link)

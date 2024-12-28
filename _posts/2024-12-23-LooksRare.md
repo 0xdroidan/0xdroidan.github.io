@@ -2,9 +2,11 @@
 layout: post
 title: "LooksRare"
 date: 2022-01-11 03:21:08 +0530
-categories: [nft_marketplace]
+categories: ['nft', 'marketplace']
 tags: [all,nft,2k22] # Tag names should always be lowercase
 ---
+
+
 
 ## [LooksRare Website](https://looksrare.org/)
 

@@ -2,10 +2,12 @@
 layout: post
 title: "Polyhedra"
 date: 2024-05-06
-categories: [Bridge]
+categories: ['infrastructure', 'zk']
 tags: [all]
 
 ---
+
+
 
 ## [Project Website](link)
 

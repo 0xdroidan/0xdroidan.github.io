@@ -2,9 +2,11 @@
 layout: post
 title: "Ampleforth"
 date: 2021-04-21 03:21:08 +0530
-categories: [dex]
+categories: ['uncategorized']
 tags: [all,2k21,blockchain,type] # Tag names should always be lowercase
 ---
+
+
 
 ## [Ampleforth Website](https://www.ampleforth.org/)
 

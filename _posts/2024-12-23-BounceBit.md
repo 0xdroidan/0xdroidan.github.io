@@ -2,10 +2,12 @@
 layout: post
 title: "BounceBit"
 date: 2024-05-13
-categories: [BTCFi]
+categories: ['defi', 'token-distribution', 'auctions']
 tags: [all]
 
 ---
+
+
 
 ## [Project Website](link)
 

@@ -2,10 +2,12 @@
 layout: post
 title: "CyberConnect"
 date: 2023-08-04
-categories: [SocialFi]
+categories: ['social', 'platform']
 tags: [all]
 
 ---
+
+
 
 ## [Project Website](link)
 

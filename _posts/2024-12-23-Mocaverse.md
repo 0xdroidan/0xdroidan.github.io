@@ -2,10 +2,12 @@
 layout: post
 title: "Mocaverse"
 date: 2024-06-19
-categories: [SocialFi]
+categories: ['gaming', 'metaverse', 'blockchain']
 tags: [all]
 
 ---
+
+
 
 ## [Project Website](link)
 
