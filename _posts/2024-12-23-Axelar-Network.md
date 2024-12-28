@@ -3,7 +3,7 @@ layout: post
 title: "Axelar Network"
 date: 2023-05-13
 categories: ['infrastructure', 'cross-chain']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

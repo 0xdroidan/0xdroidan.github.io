@@ -3,7 +3,7 @@ layout: post
 title: "Pentagon Games"
 date: 2024-12-24 03:21:08 +0530
 categories: ['gaming', 'platform']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

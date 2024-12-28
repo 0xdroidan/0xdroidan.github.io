@@ -3,7 +3,7 @@ layout: post
 title: "Thetanuts Fi"
 date: 2024-05-20
 categories: ['defi', 'options']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

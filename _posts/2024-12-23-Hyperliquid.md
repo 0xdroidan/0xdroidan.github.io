@@ -3,7 +3,7 @@ layout: post
 title: "Hyperliquid"
 date: 2024-11-29
 categories: ['defi', 'trading']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

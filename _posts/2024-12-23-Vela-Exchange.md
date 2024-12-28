@@ -3,7 +3,7 @@ layout: post
 title: "Vela Exchange"
 date: 2023-06-26
 categories: ['defi', 'trading']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

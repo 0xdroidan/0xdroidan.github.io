@@ -3,7 +3,7 @@ layout: post
 title: "DeFi Yield Protocol"
 date: 2024-12-24 03:21:08 +0530
 categories: ['defi', 'yield', 'protocol']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

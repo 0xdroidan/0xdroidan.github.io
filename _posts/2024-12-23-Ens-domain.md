@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Ensdomain"
+title: "Ens domain"
 date: 2021-11-10 03:21:08 +0530
-categories: ['uncategorized']
+categories: ['identity', 'naming']
 tags: [all,2k21] # Tag names should always be lowercase
 ---
 
@@ -31,7 +31,7 @@ ENS
 | ----------------------- |:--------------------------:| ----------------:|
 |    October 31st, 2021   |   November 10st, 2021      |   May 4, 2022    |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

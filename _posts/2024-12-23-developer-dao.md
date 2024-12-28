@@ -2,8 +2,8 @@
 layout: post
 title: Developer DAO
 date: 2023-05-05 04:10 +0530
-categories: ['uncategorized']
-tags: [all,unfinishedc,layer_level,blockchain,year] 
+categories: ['social', 'community', 'dao']
+tags: [all]
 ---
 
 
@@ -29,7 +29,7 @@ Number of Claimants : not known
 | ----------------------- |:--------------------------:| ----------------:|
 |       not known         |        not known           |   not known      |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

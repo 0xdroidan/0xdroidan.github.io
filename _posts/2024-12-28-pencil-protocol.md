@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Sender Wallet"
-date: 2024-11-09 03:21:08 +0530
-categories: ['infrastructure', 'wallet']
+title: "Pencil Protocol"
+date: 2024-09-27
+categories: ['nft', 'art', 'marketplace']
 tags: [all]
 
 ---
-
-
 
 ## [Project Website](link)
 
@@ -39,3 +37,4 @@ For checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/) 
 ## [Criteria For Airdrop](link)
 
 ## Any other links
+https://x.com/pencilsprotocol/status/1839517424321958196

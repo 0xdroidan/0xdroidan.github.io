@@ -3,7 +3,7 @@ layout: post
 title: "Ora Protocol"
 date: 2024-12-06
 categories: ['infrastructure', 'oracles', 'data']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: ZigZag Exchange
 date: 2023-05-05 05:36 +0530
 categories: ['defi', 'dex']
-tags: [all,need_updates, dex,2k23]
+tags: [all, dex,2k23]
 ---
 
 

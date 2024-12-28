@@ -3,7 +3,7 @@ layout: post
 title: Convex Finance
 date: 2023-04-08 03:21:08 +0530
 categories: ['defi', 'yield', 'optimizer']
-tags: [all,layer_level,blockchain,year] 
+tags: [all]
 ---
 
 
@@ -28,7 +28,7 @@ Number of Claimants : not known
 | ----------------------- |:--------------------------:| ----------------:|
 |       not known         |        not known           |   not known      |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

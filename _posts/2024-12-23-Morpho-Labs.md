@@ -3,7 +3,7 @@ layout: post
 title: "Morpho Labs"
 date: 2024-11-18
 categories: ['defi', 'lending', 'optimization']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

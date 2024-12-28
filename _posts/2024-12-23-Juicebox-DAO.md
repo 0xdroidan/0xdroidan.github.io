@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Juicebox_DAO"
+title: "Juicebox DAO"
 date: 2023-04-08 03:21:08 +0530
-categories: ['uncategorized']
-tags: [all,unfinishedc, layer_level,blockchain,type] # Tag names should always be lowercase
+categories:  ['defi', 'fundraising', 'dao']
+tags: [all] # Tag names should always be lowercase
 ---
 
 
@@ -28,7 +28,7 @@ JBX
 | ----------------------- |:--------------------------:| ----------------:|
 |   February 23, 2022     |        not known           | June 8, 2022     |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

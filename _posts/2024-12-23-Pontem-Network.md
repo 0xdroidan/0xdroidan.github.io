@@ -3,7 +3,7 @@ layout: post
 title: "Pontem Network"
 date: 2024-07-29
 categories: ['infrastructure', 'move', 'blockchain']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

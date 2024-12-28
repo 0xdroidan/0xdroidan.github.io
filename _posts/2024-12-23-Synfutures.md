@@ -2,8 +2,8 @@
 layout: post
 title: "Synfutures"
 date: 2024-12-06
-categories: ['uncategorized']
-tags: [all,unclassified]
+categories: ['defi', 'derivatives', 'trading']
+tags: [all]
 
 ---
 

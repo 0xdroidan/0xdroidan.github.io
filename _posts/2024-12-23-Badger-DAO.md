@@ -2,8 +2,8 @@
 layout: post
 title: "Badger DAO"
 date: 2020-12-04 03:21:08 +0530
-categories: ['uncategorized']
-tags: [all,2k20,yield aggregator,type] # Tag names should always be lowercase
+categories: ['defi', 'bitcoin', 'dao']
+tags: [all,2k20,yield aggregator] # Tag names should always be lowercase
 ---
 
 
@@ -32,7 +32,7 @@ BADGER
 
 Users were given a 48-hour grace period from the launch of the rewards program to claim their rewards. After this period, every 24 hours, 20% of their $BADGER rewards were redistributed to a community pool. It was critical for users to claim their rewards as quickly as possible to avoid missing out on them. By the end of 5 days, all rewards would have been redistributed, and there would be no more rewards left for users to claim.
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

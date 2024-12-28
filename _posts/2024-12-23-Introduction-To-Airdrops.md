@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction To Airdrops"
 date: 2017-04-08 03:21:08 +0530
-categories: ['uncategorized']
+categories: ['Airdrop-Basics']
 tags: [basics,introduction] # Tag names should always be lowercase
 pin: true
 ---

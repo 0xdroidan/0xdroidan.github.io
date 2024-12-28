@@ -3,7 +3,7 @@ layout: post
 title: "Goldfinch-fi"
 date: 2023-04-08 03:21:08 +0530
 categories: ['defi', 'lending', 'business']
-tags: [all,unfinishedc, layer_level,blockchain,type] # Tag names should always be lowercase
+tags: [all] # Tag names should always be lowercase
 ---
 
 
@@ -29,7 +29,7 @@ GFI
 | ----------------------- |:--------------------------:| ----------------:|
 |       not known         |        not known           |   not known      |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

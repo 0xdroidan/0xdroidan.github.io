@@ -3,7 +3,7 @@ layout: post
 title: "Reflexer_Ungovernance_Token"
 date: 2023-04-08 03:21:08 +0530
 categories: ['defi', 'stablecoin', 'algorithmic']
-tags: [all,unfinishedc, layer_level,blockchain,type] # Tag names should always be lowercase
+tags: [all] # Tag names should always be lowercase
 ---
 
 
@@ -29,7 +29,7 @@ FLX
 | ----------------------- |:--------------------------:| ----------------:|
 |      April 13, 2021     |        not known           |   July 9, 2021   |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

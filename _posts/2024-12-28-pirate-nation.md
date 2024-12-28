@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Sender Wallet"
-date: 2024-11-09 03:21:08 +0530
-categories: ['infrastructure', 'wallet']
+title: "Pirate Nation"
+date: 2024-06-13
+categories: ['gaming', 'ecosystem', 'nft']
 tags: [all]
 
 ---
-
-
 
 ## [Project Website](link)
 

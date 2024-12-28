@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "HopProtocol"
+title: "Hop Protocol"
 date: 2023-04-08 03:21:08 +0530
-categories: ['uncategorized']
+categories: ['infrastructure', 'cross-chain', 'transfer']
 tags: [all,2k22] # Tag names should always be lowercase
 ---
 
@@ -27,7 +27,7 @@ Number of Claimants : 28,050
 | ----------------------- |:--------------------------:| ----------------:|
 |       April 1 2022      |       June 11 2022         | October 1 2022   |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

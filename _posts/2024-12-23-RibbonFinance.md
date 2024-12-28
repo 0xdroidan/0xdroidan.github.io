@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "RibbonFinance"
+title: "Ribbon Finance"
 date: 2021-05-25 03:21:08 +0530
-categories: ['uncategorized']
+categories:  ['defi', 'options']
 tags: [all,2k21] # Tag names should always be lowercase
 ---
 
@@ -30,7 +30,7 @@ RBN
 | ----------------------- |:--------------------------:| ----------------:|
 |       not known         |     25 May 2021            |   not known      |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

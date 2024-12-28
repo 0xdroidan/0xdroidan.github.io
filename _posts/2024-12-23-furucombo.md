@@ -2,8 +2,8 @@
 layout: post
 title: FuruCombo
 date: 2023-05-05 04:47 +0530
-categories: ['uncategorized']
-tags: [all,unfinishedc, layer_level,blockchain,year] 
+categories: ['defi', 'strategy', 'automation']
+tags: [all]
 ---
 
 
@@ -27,7 +27,7 @@ Number of Claimants : not known
 | ----------------------- |:--------------------------:| ----------------:|
 |       not known         |        not known           |   not known      |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

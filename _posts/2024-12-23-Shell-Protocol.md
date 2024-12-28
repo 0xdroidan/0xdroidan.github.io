@@ -3,7 +3,7 @@ layout: post
 title: "Shell Protocol"
 date: 2024-01-23
 categories: ['infrastructure', 'defi']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: "Puffer Finance"
 date: 2024-10-14
-categories: ['uncategorized']
-tags: [all,unclassified]
+categories: ['defi', 'yield', 'optimization']
+tags: [all]
 
 ---
 

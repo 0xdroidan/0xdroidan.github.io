@@ -2,7 +2,7 @@
 layout: post
 title: "AcrossProtocol"
 date: 2022-11-28 03:21:08 +0530
-categories: ['uncategorized']
+categories: ['infrastructure', 'cross-chain', 'liquidity']
 tags: [all,2k22, bridge] # Tag names should always be lowercase
 ---
 
@@ -34,7 +34,7 @@ Retroactive airdrop
 |  September 1, 2022      |      Nov 28, 2022           |   not known    | Bridge Traveler Program
 |  November 27, 2022      |       Nov 28, 2022           |   not known    | Liquidity Provider
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|
@@ -63,7 +63,7 @@ for checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/ac
 ### Early Bridge User
 
      15,000,000 $ACX
-     Users who bridged assets before the Across Referral Program (July 18th, 2022). These tokens will be allocated to wallets pro-rata by the volume of transfer completed. A minimum transfer amount is required and a maximum airdrop size will be applied. Received atleast 438 tokens 
+     Users who bridged assets before the Across Referral Program (July 18th, 2022). These tokens will be allocated to wallets pro-rata by the volume of transfer completed. A minimum transfer amount is required and a maximum airdrop size will be applied. Received atleast 438 tokens
 
 ### Liquidity Provider
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Internet Computer"
 date: 2021-05-11 03:21:08 +0530
-categories: ['uncategorized']
+categories: ['layer-1', 'blockchain']
 tags: [all,2k18] # Tag names should always be lowercase
 ---
 
@@ -29,7 +29,7 @@ ICP
 | ----------------------- |:--------------------------:| ----------------:|
 |      May 29, 2018       |       11 May 2021          |   11 May 2022    |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|
@@ -39,7 +39,7 @@ for checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/in
 
 ## [Criteria For Airdrop](https://medium.com/dfinity/liftoff-the-dfinity-community-airdrop-is-here-5a11b94a2d03)
 
-* Subscribe to their newsletter.  
+* Subscribe to their newsletter.
 
 ## Any other links
 

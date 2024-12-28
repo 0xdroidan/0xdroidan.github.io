@@ -3,7 +3,7 @@ layout: post
 title: "Param Labs"
 date: 2024-05-29
 categories: ['gaming', 'interoperability', 'blockchain']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

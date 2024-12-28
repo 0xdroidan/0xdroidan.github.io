@@ -3,7 +3,7 @@ layout: post
 title: "Exactly Protocol"
 date: 2023-07-25
 categories: ['defi', 'lending']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

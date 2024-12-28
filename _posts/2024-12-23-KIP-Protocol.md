@@ -3,7 +3,7 @@ layout: post
 title: "KIP Protocol"
 date: 2024-12-10
 categories: ['identity', 'privacy', 'blockchain']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

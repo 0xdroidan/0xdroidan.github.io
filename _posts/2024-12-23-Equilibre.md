@@ -3,7 +3,7 @@ layout: post
 title: "Equilibre"
 date: 2023-03-24
 categories: ['defi', 'balance', 'ecosystem']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

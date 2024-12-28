@@ -3,7 +3,7 @@ layout: post
 title: "Swell Network"
 date: 2024-11-07
 categories: ['defi', 'staking', 'ethereum']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 

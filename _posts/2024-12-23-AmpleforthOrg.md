@@ -2,8 +2,8 @@
 layout: post
 title: "Ampleforth"
 date: 2021-04-21 03:21:08 +0530
-categories: ['uncategorized']
-tags: [all,2k21,blockchain,type] # Tag names should always be lowercase
+categories: ['defi', 'stablecoin', 'rebase']
+tags: [all,2k21] # Tag names should always be lowercase
 ---
 
 
@@ -32,7 +32,7 @@ AMPL
 | ----------------------- |:--------------------------:| ----------------:|
 | 30th, 2021              |  April 21st, 2021          | April 16th, 2022 |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  | Min    |
 | ---------- |:--------------------:| ------:|

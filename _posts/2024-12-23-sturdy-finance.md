@@ -2,8 +2,8 @@
 layout: post
 title: Sturdy Finance
 date: 2022-11-21 05:44 +0530
-categories: ['uncategorized']
-tags: [all,need_updates,lending] 
+categories: ['defi', 'lending', 'risk-management']
+tags: [all,lending]
 ---
 
 
@@ -30,7 +30,7 @@ Retroactive
 | ----------------------- |:--------------------------:| ----------------:|
 |    November 21, 2022    |        not known           |   not known      |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

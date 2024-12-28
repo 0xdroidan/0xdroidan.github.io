@@ -3,7 +3,7 @@ layout: post
 title: "Helio (Lista)"
 date: 2024-06-22
 categories: ['defi', 'yield', 'aggregation']
-tags: [all,unclassified]
+tags: [all]
 
 ---
 
@@ -12,7 +12,7 @@ tags: [all,unclassified]
 
 ## [Project Website](link)
 
-Short Project Description 
+Short Project Description
 
 ## Token claim
 

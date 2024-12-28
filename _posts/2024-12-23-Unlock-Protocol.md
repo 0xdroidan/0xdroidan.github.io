@@ -3,7 +3,7 @@ layout: post
 title: "Unlock Protocol"
 date: 2023-04-08 03:21:08 +0530
 categories: ['infrastructure', 'access', 'control']
-tags: [all,unfinishedc, layer_level,blockchain,type] # Tag names should always be lowercase
+tags: [all] # Tag names should always be lowercase
 ---
 
 
@@ -28,7 +28,7 @@ UDT
 | ----------------------- |:--------------------------:| ----------------:|
 | September 1st, 2021     |        not known           |  March 11, 2022  |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|
