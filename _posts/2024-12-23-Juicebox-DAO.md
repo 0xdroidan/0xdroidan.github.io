@@ -9,7 +9,7 @@ tags: [all] # Tag names should always be lowercase
 
 ## [Project Website](https://juicebox.money/)
 
- Short Project Description
+ Project Description
 
 ## Token claim
 

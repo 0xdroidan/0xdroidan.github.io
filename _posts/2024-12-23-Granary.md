@@ -11,7 +11,7 @@ tags: [all]
 
 ## [Project Website](link)
 
-Short Project Description
+Project Description
 
 ## Token claim
 

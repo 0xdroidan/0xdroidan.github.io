@@ -10,7 +10,7 @@ tags: [all]
 
 ## [Project Website](https://furucombo.app/)
 
- Short Project Description
+ Project Description
 
 ## Token claim
 

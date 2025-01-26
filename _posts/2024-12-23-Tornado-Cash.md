@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tornado_Cash"
+title: "Tornado Cash"
 date: 2021-10-02 03:21:08 +0530
 categories: ['infrastructure', 'privacy', 'ethereum']
 tags: [all,mixer,2k21] # Tag names should always be lowercase
@@ -29,13 +29,13 @@ TORN
 | ----------------------- |:--------------------------:| ----------------:|
 |      Dec-06-2020        |        Oct 02 2021         |   Dec-06-2021    |
 
-According to tornado cash's blog they took a snapshot before [block 11400000](https://etherscan.io/block/11400000) and we can see that on etherscan block 11400000 was mined on Dec-06-2020.  
+According to tornado cash's blog they took a snapshot before [block 11400000](https://etherscan.io/block/11400000) and we can see that on etherscan block 11400000 was mined on Dec-06-2020.
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|
-| 2,073.56   |     23.38 / 66.76    |       0.01   |  
+| 2,073.56   |     23.38 / 66.76    |       0.01   |
 
 for checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/torn) and [coingeko](https://www.coingecko.com/en/coins/torn)
 

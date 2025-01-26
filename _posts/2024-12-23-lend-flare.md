@@ -11,7 +11,7 @@ tags: [all]
 
 ## [Project Website](https://lendflare.finance/)
 
- Short Project Description
+ Project Description
 
 ## Token claim
 

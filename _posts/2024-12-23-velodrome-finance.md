@@ -11,7 +11,7 @@ tags: [all]
 
 ## [Project Website](https://app.velodrome.finance/)
 
- Short Project Description
+ Project Description
 
 ## Token claim
 

@@ -11,7 +11,7 @@ tags: [all]
 
 ## [Project Website](https://stakewise.io/app/pool)
 
- Short Project Description
+ Project Description
 
 ## Token claim
 

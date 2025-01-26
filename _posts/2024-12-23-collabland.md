@@ -12,7 +12,7 @@ tags: [all]
 
 ## [Project Website](https://collab.land/)
 
- Short Project Description
+ Project Description
 
 ## Token claim
 

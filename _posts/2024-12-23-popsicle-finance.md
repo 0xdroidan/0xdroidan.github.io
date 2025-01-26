@@ -11,7 +11,7 @@ tags: [all]
 
 ## [Project Website](https://popsicle.finance/)
 
- Short Project Description
+ Project Description
 
 ## Token claim
 

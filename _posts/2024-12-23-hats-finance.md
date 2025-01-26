@@ -11,7 +11,7 @@ tags: [all]
 
 ## [Project Website](https://hats.finance/)
 
- Short Project Description
+ Project Description
 
 ## Token claim
 

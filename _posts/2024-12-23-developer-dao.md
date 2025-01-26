@@ -12,7 +12,7 @@ tags: [all]
 
 ## [Project Website](https://www.developerdao.com/)
 
- Short Project Description
+ Project Description
 
 ## Token claim
 

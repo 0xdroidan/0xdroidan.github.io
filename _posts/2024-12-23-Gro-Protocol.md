@@ -10,7 +10,7 @@ tags: [all] # Tag names should always be lowercase
 
 ## [Project Website](https://www.gro.xyz/#/)
 
- Short Project Description
+ Project Description
 
 ## Token claim
 

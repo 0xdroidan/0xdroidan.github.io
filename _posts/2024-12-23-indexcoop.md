@@ -11,7 +11,7 @@ tags: [all]
 
 ## [Project Website](https://www.indexcoop.com/farm)
 
- Short Project Description
+ Project Description
 
 ## Token claim
 

@@ -10,7 +10,7 @@ tags: [all]
 
 ## [Project Website](https://www.lotto.finance/)
 
- Short Project Description
+ Project Description
 
 ## Token claim
 

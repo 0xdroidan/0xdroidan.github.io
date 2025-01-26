@@ -11,7 +11,7 @@ tags: [all] # Tag names should always be lowercase
 ## [Project Website](https://eth.mirror.finance)
 
  [Mirror finance](https://eth.mirror.finance/airdrop)
- Short Project Description
+ Project Description
 
 ## Token claim
 

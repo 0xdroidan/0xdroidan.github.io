@@ -11,7 +11,7 @@ tags: [all]
 
 ## [Project Website](https://diffusion.fi/)
 
- Short Project Description
+ Project Description
 
 ## Token claim
 
