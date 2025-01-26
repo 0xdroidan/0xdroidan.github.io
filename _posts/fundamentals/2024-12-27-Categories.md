@@ -1,57 +1,92 @@
-this are my exsiting categories 
- AI  
- BTCFi  
- Bridge  
- DEX  category   
- GameFi  
- DeFi  
- DePIN  
- GambleFi  
- GameFi  categories   
- Infrastructure  
- LST  
- Layer   
- Layer   
- Lending  
- Meme Coin  
- NFT  
- NFT Marketplace  
- Network  
- Perps  
- Quest  
- RWA  
- Restaking  
- SocialFi  category   
- SocialFi  
- Stablecoin  
- Wallet  
- blockchain  categories   
- aptos  
- blockchain  
- layer_level  
- bridge  
- cross chain  
- defi  
- dex  
- ethereum  categories   
- arbitrum  
- naming_service  
- fundamentals  categories   
- criteria  
- introduction  
- layer_  
- layer_  category   
- blockchain  
- lending  
- mixer  
- need_updates  
- nft  
- nft_marketplace  
- options vault  
- unclassified  
- yield aggregator  
+Layer 1 (Base Chains)
+Aptos, Polkadot, Internet Computer, Celestia, Sei, Saga, Mode, Dymension, Archway, Namada, Viction, Quai, Artela, Supra, Avail, Aleo, Avalanche Retro9000, Bitcoin Cash, Minereum, Stellar, BitClave, Decred, Bonk, Worldcoin, Stellar, Osmosis
+(Total: 25)
 
-and i want to add them to below or even insert them into this one so do accordingly
+Layer 2 (Scaling Solutions)
+zkSync, Arbitrum, Optimism, Starknet, Scroll, Taiko, Fuel Network, AltLayer, Kroma, Lumoz, Zircuit, zkFair, Polygon zkEVM, LayerZero, Blast, OmiseGo, Kinto
+(Total: 17)
+
+DeFi
+DEX
+Uniswap, Jupiter, Curve, CowSwap, 1inch, Hashflow, SpartaDEX, Thena, Animeswap, DeepBook, Velodrome, Osmosis, Sudoswap, Arbswap, ZigZag Exchange, Diffusion Finance, Odos Protocol, DexGuru, ZEX, Dragonswap DEX, Magic Square, PancakeSwap, Trader Joe, Shell Protocol, Hashflow
+(Total: 25)
+
+Lending
+Compound, Morpho Labs, Exactly Protocol, Raft, Goldfinch fi, Inverse Finance, Gearbox, Sturdy Finance, Lifeform, Zeus, Granary, Elys, ZkLend, Aark, Scallop
+(Total: 15)
+
+Yield/Staking
+Yearn.finance, EigenLayer, Eigenpie, Convex, Renzo, Kamino, StakeWise, APWine, Swell Network, EtherFi, Usual, Elipsis, DeFi Yield Protocol, Wombat, Lend Flare, Helio (Lista)
+(Total: 16)
+
+Options/Derivatives
+Ribbon Finance, Lyra, Synfutures, ZKX, Antimatter, GammaSwap, dYdX, Hyperliquid, Pika, Bluefin, Thetanuts Fi, Spin, Contango, Zeta Markets
+(Total: 14)
+
+Stablecoins
+Ampleforth, Prisma Finance, Reflexer finance, Ironclad, Islamic Coin, Frax, Raft
+(Total: 7)
+
+Cross-Chain & Bridges
+ThorChain, Wormhole, deBridge, Axelar Network, Hop Protocol, Orbiter, ZetaChain, Across Protocol, Portal, Holograph, Celer, Multichain, BitTorrent
+(Total: 13)
+
+Other DeFi
+Blast, Parcl, Lotto Finance, Thales, FuruCombo, Juicebox DAO, Pool Together, Ethena, Fluidity, De.Fi, IndexCoop, Sharpe, Timeless, Streamflow, NX Finance, Shuffle, Azuro, Piggy Superform, Filament Finance, Spin, Defi Yield Protocol
+(Total: 21)
+
+Infrastructure
+Wallets
+WalletConnect, Safe, Holdstation, Sender Wallet, Magic Eden Wallet, Catizen, Zerolend, idriss
+(Total: 8)
+
+Oracles & Data
+Pyth Network, Ora Protocol, Vana, Graph Protocol, Arkham, DexGuru, Spectral Labs, Logx, Tensor, ChainLink, Nodepay, DappRadar, SoSoValue
+(Total: 13)
+
+Privacy & Security
+Tornado Cash, Penumbra, Manta, Sanctum, Nektar Network, KIP Protocol, Alligned Foundation, Antcore, Sirath, Mystiko Network, Aigisos
+(Total: 11)
+
+Bridges
+Wormhole, Holograph, Orbiter, LayerZero, Stargate, Synapse, Omni, BitClave
+(Total: 8)
+
+Tooling & DAOs
+Biconomy, Polyhedra, Forta, Hats finance, CollabLand, Seamless, Thruster, Yellow, Anzen, Genie, Orchai, Bonsai, Port3, Overprotocol, Derive, Peaq, Plume, Aethir, Lava, Grass, Kima Network, Uprock, BSX, Burnt (XION)
+(Total: 24)
+
+NFT Ecosystem
+Marketplaces
+Blur, Magic Eden, Rarible, LooksRare, Exchange Art, X2Y2, Tensor, ProjectGalaxyHQ, NFPrompt, Mantle Cook, Pencil Protocol, the x2y2
+(Total: 12)
+
+NFT Projects
+Pudgy Penguins, Pixels, MurALL, StarryNift, zkApe, Memeland, Botto, Milady, Not Pixel, Cult, Loot, Anime Azuki, Carv.io, Purr, Aerodrome
+(Total: 15)
+
+NFT-Fi
+NFTfi, Sudoswap, BendDAO, Arcade, Unlock Protocol, Nekodex
+(Total: 6)
+
+Gaming & Metaverse
+Tevaera, Nyan Heroes, Mocaverse, Hamster Kombat, Ancient8, GameSwift, AlienX, Ai Arena, BlockGames, Pentagon Games, Mavia, Sonic SVM, ZTX, Pirate Nation, The Arena, Gaimin, Notcoin, Param Labs, Wenwencoin, Bluefin, Movement, Avalanche Retro9000
+(Total: 22)
+
+Social & Identity
+CyberConnect, Galxe, Dmail, Friend Tech, Space ID, Masa Finance, ENS Domain, QnA3, Phaver, Seed Club, AsMatch, SailDAO, Beoble, EtherMail, Hooked, Talent Protocol, Layer3, Dogs, IndexCoop, AVAV, BounceBit, Wen, Divvy
+(Total: 23)
+
+AI & Analytics
+SharpeAI, XAI, SoSoValue, Aigisos, Fluidity, DappRadar, Arkham, Tensor, LogX, Spectral Labs, Nodepay, Graph Protocol, Spectral Labs, Soarchain
+(Total: 14)
+
+Real-World Assets (RWA)
+Plume, SwanChain, Goldfinch fi, Parcl, Realio, Centrifuge, Maple Finance, NX Finance, Grass, Kima Network, Uprock, BounceBit
+(Total: 12)
+
+Miscellaneous
+Aidoge, Worldcoin, Oyster Pearl, Minereum, Stellar, BitClave, OmiseGo, Bonk, BitTorrent, Decred, Lava, Movement, Grass, Kima Network, Uprock, BSX, Burnt (XION)
 
 Layer Architecture:
 
