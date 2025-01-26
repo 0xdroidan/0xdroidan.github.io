@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Element_Finance"
+title: "Element Finance"
 date: 2023-04-08 03:21:08 +0530
 categories: ['defi', 'yield', 'fixed-income']
 tags: [all,2k22,rwa] # Tag names should always be lowercase
@@ -29,7 +29,7 @@ ELFI
 | ----------------------- |:--------------------------:| ----------------:|
 |    April 11th, 2022     |        not known           |   not known      |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

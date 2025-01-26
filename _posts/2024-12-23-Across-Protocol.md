@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AcrossProtocol"
+title: "Across Protocol"
 date: 2022-11-28 03:21:08 +0530
 categories: ['infrastructure', 'cross-chain', 'liquidity']
 tags: [all,2k22, bridge] # Tag names should always be lowercase

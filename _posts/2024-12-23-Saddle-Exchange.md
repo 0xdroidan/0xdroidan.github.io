@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Saddle_Exchange"
+title: "Saddle Exchange"
 date: 2023-04-08 03:21:08 +0530
 categories: ['defi', 'stablecoin', 'exchange']
 tags: [all] # Tag names should always be lowercase
