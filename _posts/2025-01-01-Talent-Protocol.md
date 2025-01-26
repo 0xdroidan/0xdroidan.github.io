@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Talent-Protocol"
+title: "Talent Protocol"
 date: 2025-01-01
 categories: ['social', 'professional', 'reputation']
 tags: [all]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Piggy-Superform"
+title: "Piggy Superform"
 date: 2025-01-01
 categories: ['defi', 'synthetics', 'cross-chain']
 tags: [all]

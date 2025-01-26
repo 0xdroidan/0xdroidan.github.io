@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mantle-Cook"
+title: "Mantle Cook"
 date: 2025-01-01
 categories: ['nft', 'culinary', 'marketplace']
 tags: [all]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alligned-Foundation"
+title: "Alligned Foundation"
 date: 2025-01-01
 categories: ['identity', 'privacy', 'security']
 tags: [all]

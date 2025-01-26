@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Filament-Finance"
+title: "Filament Finance"
 date: 2025-01-01
 categories: ['defi', 'derivatives', 'structured-products']
 tags: [all]

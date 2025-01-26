@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nektar-Network"
+title: "Nektar Network"
 date: 2025-01-01
 categories: ['infrastructure', 'privacy', 'enterprise']
 tags: [all]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NX-Finance"
+title: "NX Finance"
 date: 2025-01-01
 categories: ['defi', 'products', 'traditional-finance']
 tags: [all]
