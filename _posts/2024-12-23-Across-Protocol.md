@@ -2,20 +2,21 @@
 layout: post
 title: "Across Protocol"
 date: 2022-11-28 03:21:08 +0530
-categories: ['infrastructure', 'cross-chain', 'liquidity']
-tags: [draft,all,2k22, bridge] # Tag names should always be lowercase
+categories: ["infrastructure", "cross-chain", "liquidity"]
+tags: [draft, all, 2k22, bridge] # Tag names should always be lowercase
 ---
-
-
 
 ## [AcrossProtocol Website](https://across.to/)
 
- Across is the fastest, cheapest and most secure cross-chain bridge for Ethereum, Arbitrum, Optimism, Polygon and other Layer 1 and Layer 2 networks.
+Across is the fastest, cheapest and most secure cross-chain bridge for Ethereum, Arbitrum, Optimism, Polygon and other Layer 1 and Layer 2 networks.
+
+{% comment %}
 
 ## Token claim
 
 Eligible User : not known
 Number of Claimants : not known
+{% endcomment %}
 
 ## Project Ticker
 
@@ -27,18 +28,18 @@ Retroactive airdrop
 
 ## Airdrop Timeline
 
-| Blockchain snapshot     | Claiming Started           | Claiming ends    | For
-| ----------------------- |:--------------------------:| ----------------:|
-|  July 19th, 2022        |       Nov 28, 2022           |   not known    | Early Bridge User
-|  September 1, 2022      |       Nov 28, 2022           |   not known    | Community Member
-|  September 1, 2022      |      Nov 28, 2022           |   not known    | Bridge Traveler Program
-|  November 27, 2022      |       Nov 28, 2022           |   not known    | Liquidity Provider
+| Blockchain snapshot | Claiming Started | Claiming ends | For                     |
+| ------------------- | :--------------: | ------------: | ----------------------- |
+| July 19th, 2022     |   Nov 28, 2022   |     not known | Early Bridge User       |
+| September 1, 2022   |   Nov 28, 2022   |     not known | Community Member        |
+| September 1, 2022   |   Nov 28, 2022   |     not known | Bridge Traveler Program |
+| November 27, 2022   |   Nov 28, 2022   |     not known | Liquidity Provider      |
 
 ## Amount Received in tokens
 
-| Max        |    Median / Average  |       Min    |
-| ---------- |:--------------------:| ------------:|
-| not known  |     not known        |  438         |
+| Max       | Median / Average | Min |
+| --------- | :--------------: | --: |
+| not known |    not known     | 438 |
 
 for checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/across-protocol) and [coingeko](https://www.coingecko.com/en/coins/across-protocol)
 

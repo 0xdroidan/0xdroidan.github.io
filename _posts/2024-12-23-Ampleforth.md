@@ -2,11 +2,9 @@
 layout: post
 title: "Ampleforth"
 date: 2021-04-21 03:21:08 +0530
-categories: ['defi', 'stablecoin', 'rebase']
-tags: [draft,all,2k21] # Tag names should always be lowercase
+categories: ["defi", "stablecoin", "rebase"]
+tags: [draft, all, 2k21] # Tag names should always be lowercase
 ---
-
-
 
 ## [Ampleforth Website](https://www.ampleforth.org/)
 
@@ -28,20 +26,20 @@ AMPL
 
 ## Airdrop Timeline
 
-| Blockchain snapshot        | Claiming Started           | Claiming ends    |
-| ----------------------- |:--------------------------:| ----------------:|
-| 30th, 2021              |  April 21st, 2021          | April 16th, 2022 |
+| Blockchain snapshot | Claiming Started |    Claiming ends |
+| ------------------- | :--------------: | ---------------: |
+| 30th, 2021          | April 21st, 2021 | April 16th, 2022 |
 
 ## Amount Received in tokens
 
-| Max        |    Median / Average  | Min    |
-| ---------- |:--------------------:| ------:|
-|3,552,137.42|    92.61 / 230.4     |  2.81  |
+| Max          | Median / Average |  Min |
+| ------------ | :--------------: | ---: |
+| 3,552,137.42 |  92.61 / 230.4   | 2.81 |
 
 for checking price [coinmarketcap](https://coinmarketcap.com/currencies/ampl/) and [coingeko](https://www.coingecko.com/en/coins/ampl)
 
 ## [Criteria For Airdrop](https://blog.ampleforth.org/ampl-forth-realizing-the-full-ecosystem-e2d88ca01691)
 
-* Past, on-chain interaction with AMPL = 1 point (max)
-* Geyser program participation (per day) = 1 point
-* Negative rebase hold (per day) = 1 point
+- Past, on-chain interaction with AMPL = 1 point (max)
+- Geyser program participation (per day) = 1 point
+- Negative rebase hold (per day) = 1 point

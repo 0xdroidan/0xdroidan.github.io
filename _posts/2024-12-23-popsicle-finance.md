@@ -2,21 +2,21 @@
 layout: post
 title: Popsicle Finance
 date: 2023-05-05 04:53 +0530
-categories: ['defi', 'yield', 'multi-strategy']
-tags: [draft,all]
+categories: ["defi", "yield", "multi-strategy"]
+tags: [draft, all]
 ---
-
-
-
 
 ## [Project Website](https://popsicle.finance/)
 
- Project Description
+Project Description
+
+{% comment %}
 
 ## Token claim
 
 Eligible User : not known
 Number of Claimants : not known
+{% endcomment %}
 
 ## Project Ticker
 
@@ -24,15 +24,19 @@ Number of Claimants : not known
 
 ## Airdrop Timeline
 
-| Blockchain snapshot     | Claiming Started           | Claiming ends    |
-| ----------------------- |:--------------------------:| ----------------:|
-|       not known         |        not known           |   not known      |
+| Blockchain snapshot | Claiming Started | Claiming ends |
+| ------------------- | :--------------: | ------------: |
+| not known           |    not known     |     not known |
+
+{% comment %}
 
 ## Amount Received in tokens
 
-| Max        |    Median / Average  |       Min    |
-| ---------- |:--------------------:| ------------:|
-| not known  |     not known        |  not known   |
+| Max       | Median / Average |       Min |
+| --------- | :--------------: | --------: |
+| not known |    not known     | not known |
+
+{% endcomment %}
 
 for checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/) and [coingeko](https://www.coingecko.com/en/coins/)
 

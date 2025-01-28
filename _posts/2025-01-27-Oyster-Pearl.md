@@ -3,28 +3,40 @@ layout: post
 title: "Oyster Pearl"
 date: 2017-01-26
 categories: [infrastructure, web-hosting, inactive]
-tags: [draft,all]
+tags: [draft, all]
 ---
+
 ## [Project Website](link)
+
 Project Description
 
+{% comment %}
+
 ## Token claim
+
 Eligible User : not known
 Number of Claimants : not known
+{% endcomment %}
 
 ## Project Ticker
 
 ## Airdrop Type
 
 ## Airdrop Timeline
-| Blockchain snapshot     | Claiming Started           | Claiming ends    |
-| ----------------------- |:--------------------------:| ----------------:|
-|       not known         |        not known           |   not known      |
+
+| Blockchain snapshot | Claiming Started | Claiming ends |
+| ------------------- | :--------------: | ------------: |
+| not known           |    not known     |     not known |
+
+{% comment %}
 
 ## Amount Received in tokens
-| Max        |    Median / Average  |       Min    |
-| ---------- |:--------------------:| ------------:|
-| not known  |     not known        |  not known   |
+
+| Max       | Median / Average |       Min |
+| --------- | :--------------: | --------: |
+| not known |    not known     | not known |
+
+{% endcomment %}
 
 For checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/) and [coingecko](https://www.coingecko.com/en/coins/)
 

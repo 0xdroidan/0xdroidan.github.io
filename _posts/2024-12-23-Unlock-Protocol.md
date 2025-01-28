@@ -2,14 +2,13 @@
 layout: post
 title: "Unlock Protocol"
 date: 2023-04-08 03:21:08 +0530
-categories: ['infrastructure', 'access', 'control']
-tags: [draft,all] # Tag names should always be lowercase
+categories: ["infrastructure", "access", "control"]
+tags: [draft, all] # Tag names should always be lowercase
 ---
-
 
 ## [Project Website](https://unlock-protocol.com/)
 
- Project Description
+Project Description
 
 ## Token claim
 
@@ -24,15 +23,15 @@ UDT
 
 ## Airdrop Timeline
 
-| Blockchain snapshot     | Claiming Started           | Claiming ends    |
-| ----------------------- |:--------------------------:| ----------------:|
-| September 1st, 2021     |        not known           |  March 11, 2022  |
+| Blockchain snapshot | Claiming Started |  Claiming ends |
+| ------------------- | :--------------: | -------------: |
+| September 1st, 2021 |    not known     | March 11, 2022 |
 
 ## Amount Received in tokens
 
-| Max        |    Median / Average  |       Min    |
-| ---------- |:--------------------:| ------------:|
-| not known  |   not known / 1.511  |  not known   |
+| Max       | Median / Average  |       Min |
+| --------- | :---------------: | --------: |
+| not known | not known / 1.511 | not known |
 
 for checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/) and [coingeko](https://www.coingecko.com/en/coins/)
 

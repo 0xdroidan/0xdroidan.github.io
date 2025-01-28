@@ -2,20 +2,21 @@
 layout: post
 title: "Reflexer finance"
 date: 2023-04-08 03:21:08 +0530
-categories: ['defi', 'stablecoin', 'algorithmic']
-tags: [draft,all] # Tag names should always be lowercase
+categories: ["defi", "stablecoin", "algorithmic"]
+tags: [draft, all] # Tag names should always be lowercase
 ---
-
-
 
 ## [Project Website](https://reflexer.finance/)
 
- Project Description
+Project Description
+
+{% comment %}
 
 ## Token claim
 
 Eligible User : not known
 Number of Claimants : not known
+{% endcomment %}
 
 ## Project Ticker
 
@@ -25,15 +26,15 @@ FLX
 
 ## Airdrop Timeline
 
-| Blockchain snapshot     | Claiming Started           | Claiming ends    |
-| ----------------------- |:--------------------------:| ----------------:|
-|      April 13, 2021     |        not known           |   July 9, 2021   |
+| Blockchain snapshot | Claiming Started | Claiming ends |
+| ------------------- | :--------------: | ------------: |
+| April 13, 2021      |    not known     |  July 9, 2021 |
 
 ## Amount Received in tokens
 
-| Max        |    Median / Average  |       Min    |
-| ---------- |:--------------------:| ------------:|
-| not known  |   not known / 11.7   |  not known   |
+| Max       | Median / Average |       Min |
+| --------- | :--------------: | --------: |
+| not known | not known / 11.7 | not known |
 
 for checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/) and [coingeko](https://www.coingecko.com/en/coins/)
 

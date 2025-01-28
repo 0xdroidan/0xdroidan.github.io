@@ -98,13 +98,10 @@ Ethereum: Airdrops from projects built on the original smart contract platform
 Aptos: Airdrops from the Move-based blockchain ecosystem
 Other L1s: Airdrops from other major base layer blockchains like Polkadot, Avalanche, etc.
 
-
 Layer 2 (Scaling Layer):
 
 Ethereum L2s: Airdrops from scaling solutions built on Ethereum (e.g., Arbitrum, Optimism, zkSync)
 Other L2s: Airdrops from scaling solutions for other base layer blockchains
-
-
 
 DeFi (Decentralized Finance):
 

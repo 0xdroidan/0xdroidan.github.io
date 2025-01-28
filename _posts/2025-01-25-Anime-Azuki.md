@@ -12,11 +12,14 @@ categories:
     Ethereum-Ecosystem,
     Arbitrum-Ecosystem,
   ]
-tags: [all, nft, holder,2k25]
+tags: [all, nft, holder, 2k25]
 ---
 
 ## [Project Description](https://www.anime.xyz/)
+
 ANIME coin is the custom gas token for Animechain, an L3 blockchain built with Arbitrum Orbit technology that allows for gasless (sponsored) transactions to decrease onboarding friction. $ANIME is the Culture Coin transforming anime’s 1 billion fans into a community-driven creative economy. Backed by Azuki, it empowers fans to own, create, and shape the future of anime. Join the movement and turn passion into power.
+
+{% comment %}
 
 {% comment %}
 
@@ -24,6 +27,7 @@ ANIME coin is the custom gas token for Animechain, an L3 blockchain built with A
 
 Eligible User : not known
 Number of Claimants : not known
+{% endcomment %}
 {% endcomment %}
 
 ## Project Ticker
@@ -42,11 +46,15 @@ NFT & Holder
 
 {% comment %}
 
+{% comment %}
+
 ## Amount Received in tokens
 
 | Max       | Median / Average |       Min |
 | --------- | :--------------: | --------: |
 | not known |    not known     | not known |
+
+{% endcomment %}
 
 {% endcomment %}
 
