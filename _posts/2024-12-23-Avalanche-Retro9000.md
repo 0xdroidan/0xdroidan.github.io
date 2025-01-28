@@ -3,7 +3,7 @@ layout: post
 title: "Avalanche Retro9000"
 date: 2024-12-27
 categories: ['layer-1', 'blockchain']
-tags: [all]
+tags: [draft,all]
 
 ---
 

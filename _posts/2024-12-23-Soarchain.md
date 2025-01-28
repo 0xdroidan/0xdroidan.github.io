@@ -2,8 +2,8 @@
 layout: post
 title: "Soarchain"
 date: 2024-04-15
-categories: ['infrastructure', 'scaling', 'performance']
-tags: [all]
+categories: [DePIN,'infrastructure', 'scaling', 'performance']
+tags: [draft,all]
 
 ---
 

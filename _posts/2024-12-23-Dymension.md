@@ -3,7 +3,7 @@ layout: post
 title: "Dymension"
 date: 2024-01-02
 categories: ['layer-1', 'blockchain', 'rollup']
-tags: [all]
+tags: [draft,all]
 
 ---
 

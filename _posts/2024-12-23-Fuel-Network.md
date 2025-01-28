@@ -3,7 +3,7 @@ layout: post
 title: "Fuel Network"
 date: 2024-12-19
 categories: ['infrastructure', 'layer-2', 'ethereum']
-tags: [all]
+tags: [draft,all]
 
 ---
 

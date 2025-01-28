@@ -3,7 +3,7 @@ layout: post
 title: "Rage Trade"
 date: 2024-10-26
 categories: ['defi', 'trading']
-tags: [all]
+tags: [draft,all]
 
 ---
 

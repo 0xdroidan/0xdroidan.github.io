@@ -3,7 +3,7 @@ layout: post
 title: "Synfutures"
 date: 2024-12-06
 categories: ['defi', 'derivatives', 'trading']
-tags: [all]
+tags: [draft,all]
 
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Spectral Labs"
 date: 2024-05-06
 categories: ['infrastructure', 'analytics', 'visualization']
-tags: [all]
+tags: [draft,all]
 
 ---
 

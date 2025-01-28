@@ -3,7 +3,7 @@ layout: post
 title: "Side Protocol"
 date: 2025-01-01
 categories: ['infrastructure', 'tokenization', 'defi']
-tags: [all]
+tags: [draft,all]
 
 ---
 

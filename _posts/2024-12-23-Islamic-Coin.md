@@ -3,7 +3,7 @@ layout: post
 title: "Islamic Coin"
 date: 2023-10-11
 categories: ['defi', 'sharia-compliant', 'cryptocurrency']
-tags: [all]
+tags: [draft,all]
 
 ---
 

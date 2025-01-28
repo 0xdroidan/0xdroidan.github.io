@@ -3,7 +3,7 @@ layout: post
 title: "Element Finance"
 date: 2023-04-08 03:21:08 +0530
 categories: ['defi', 'yield', 'fixed-income']
-tags: [all,2k22,rwa] # Tag names should always be lowercase
+tags: [draft,all,2k22,rwa] # Tag names should always be lowercase
 ---
 
 

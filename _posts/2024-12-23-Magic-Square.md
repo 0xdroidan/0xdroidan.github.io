@@ -3,7 +3,7 @@ layout: post
 title: "Magic Square"
 date: 2024-01-10
 categories: ['gaming', 'puzzle', 'blockchain']
-tags: [all]
+tags: [draft,all]
 
 ---
 

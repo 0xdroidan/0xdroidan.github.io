@@ -3,7 +3,7 @@ layout: post
 title: "SpartaDEX"
 date: 2023-07-21
 categories: ['defi', 'dex']
-tags: [all]
+tags: [draft,all]
 
 ---
 

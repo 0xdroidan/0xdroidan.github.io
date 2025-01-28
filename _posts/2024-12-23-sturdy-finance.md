@@ -3,7 +3,7 @@ layout: post
 title: Sturdy Finance
 date: 2022-11-21 05:44 +0530
 categories: ['defi', 'lending', 'risk-management']
-tags: [all,lending]
+tags: [draft,all,lending]
 ---
 
 

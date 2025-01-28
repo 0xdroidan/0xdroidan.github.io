@@ -3,7 +3,7 @@ layout: post
 title: "DappRadar"
 date: 2023-04-08 03:21:08 +0530
 categories: ['infrastructure', 'analytics', 'dapps']
-tags: [all,2k21] # Tag names should always be lowercase
+tags: [draft,all,2k21] # Tag names should always be lowercase
 ---
 
 
@@ -29,7 +29,7 @@ RADAR
 | ----------------------- |:--------------------------:| ----------------:|
 |     October 19, 2021    |    December 16,2021         |   not known      |
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

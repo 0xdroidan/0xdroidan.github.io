@@ -3,7 +3,7 @@ layout: post
 title: "Pencil Protocol"
 date: 2024-09-27
 categories: ['nft', 'art', 'marketplace']
-tags: [all]
+tags: [draft,all]
 
 ---
 

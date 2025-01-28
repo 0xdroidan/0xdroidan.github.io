@@ -3,7 +3,7 @@ layout: post
 title: "EigenLayer"
 date: 2024-09-17
 categories: ['defi', 'staking', 'restaking']
-tags: [all]
+tags: [draft,all]
 
 ---
 

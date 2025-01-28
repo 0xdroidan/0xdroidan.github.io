@@ -3,7 +3,7 @@ layout: post
 title: "WalletConnect"
 date: 2024-11-27
 categories: ['infrastructure', 'wallet', 'protocol']
-tags: [all]
+tags: [draft,all]
 
 ---
 

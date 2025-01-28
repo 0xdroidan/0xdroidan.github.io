@@ -3,7 +3,7 @@ layout: post
 title: Lotto Finance
 date: 2023-05-05 04:47 +0530
 categories: ['defi', 'gambling', 'lottery']
-tags: [all]
+tags: [draft,all]
 ---
 
 

@@ -3,7 +3,7 @@ layout: post
 title: "SoSoValue"
 date: 2025-01-01
 categories: ['infrastructure', 'ai', 'analytics', 'research', 'investment']
-tags: [all]
+tags: [draft,all]
 
 ---
 

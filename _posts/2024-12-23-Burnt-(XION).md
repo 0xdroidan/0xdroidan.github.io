@@ -3,7 +3,7 @@ layout: post
 title: "Burnt (XION)"
 date: 2024-12-16
 categories: ['defi', 'tokenomics', 'burn-mechanism']
-tags: [all]
+tags: [draft,all]
 
 ---
 

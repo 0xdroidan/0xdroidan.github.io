@@ -3,7 +3,7 @@ layout: post
 title: Smoothy Finance
 date: 2023-05-05 05:10 +0530
 categories: ['defi', 'yield', 'aggregation']
-tags: [all]
+tags: [draft,all]
 ---
 
 

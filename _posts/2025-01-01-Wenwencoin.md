@@ -3,7 +3,7 @@ layout: post
 title: "Wenwencoin"
 date: 2025-01-01
 categories: ['social', 'charity', 'environmental']
-tags: [all]
+tags: [draft,all]
 
 ---
 

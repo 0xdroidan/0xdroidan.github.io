@@ -3,7 +3,7 @@ layout: post
 title: "Ribbon Finance"
 date: 2021-05-25 03:21:08 +0530
 categories:  ['defi', 'options']
-tags: [all,2k21] # Tag names should always be lowercase
+tags: [draft,all,2k21] # Tag names should always be lowercase
 ---
 
 

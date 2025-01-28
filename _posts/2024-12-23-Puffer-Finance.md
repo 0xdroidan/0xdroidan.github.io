@@ -3,7 +3,7 @@ layout: post
 title: "Puffer Finance"
 date: 2024-10-14
 categories: ['defi', 'yield', 'optimization']
-tags: [all]
+tags: [draft,all]
 
 ---
 

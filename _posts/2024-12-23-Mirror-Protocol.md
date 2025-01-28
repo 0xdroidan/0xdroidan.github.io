@@ -3,7 +3,7 @@ layout: post
 title: "Mirror Protocol"
 date: 2023-04-08 03:21:08 +0530
 categories: ['defi', 'synthetics', 'assets']
-tags: [all] # Tag names should always be lowercase
+tags: [draft,all] # Tag names should always be lowercase
 ---
 
 

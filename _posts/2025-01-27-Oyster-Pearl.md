@@ -3,7 +3,7 @@ layout: post
 title: "Oyster Pearl"
 date: 2017-01-26
 categories: [infrastructure, web-hosting, inactive]
-tags: [all]
+tags: [draft,all]
 ---
 ## [Project Website](link)
 Project Description

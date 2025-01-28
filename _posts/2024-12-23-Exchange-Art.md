@@ -3,7 +3,7 @@ layout: post
 title: "Exchange Art"
 date: 2023-07-01
 categories: ['nft', 'marketplace']
-tags: [all]
+tags: [draft,all]
 
 ---
 

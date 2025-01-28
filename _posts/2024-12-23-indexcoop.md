@@ -3,7 +3,7 @@ layout: post
 title: IndexCoop
 date: 2023-05-05 04:57 +0530
 categories:  ['defi', 'index', 'tokens']
-tags: [all]
+tags: [draft,all]
 ---
 
 

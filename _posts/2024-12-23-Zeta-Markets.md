@@ -3,7 +3,7 @@ layout: post
 title: "Zeta Markets"
 date: 2024-06-27
 categories: ['defi', 'derivatives', 'trading']
-tags: [all]
+tags: [draft,all]
 
 ---
 

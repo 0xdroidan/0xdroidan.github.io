@@ -3,7 +3,7 @@ layout: post
 title: "MON Protocol"
 date: 2024-09-07
 categories: ['defi', 'stablecoin', 'governance']
-tags: [all]
+tags: [draft,all]
 
 ---
 

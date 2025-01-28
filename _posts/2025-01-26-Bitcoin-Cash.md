@@ -3,7 +3,7 @@ layout: post
 title: "Bitcoin Cash"
 date: 2017-01-26
 categories: ['layer-1-chain', 'blockchain']
-tags: [all]
+tags: [draft,all]
 
 ---
 

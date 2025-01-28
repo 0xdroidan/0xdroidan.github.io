@@ -3,7 +3,7 @@ layout: post
 title: "Nois Randdrop"
 date: 2024-01-16
 categories: ['infrastructure', 'randomness', 'security']
-tags: [all]
+tags: [draft,all]
 
 ---
 

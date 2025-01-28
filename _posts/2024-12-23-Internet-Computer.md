@@ -3,7 +3,7 @@ layout: post
 title: "Internet Computer"
 date: 2021-05-11 03:21:08 +0530
 categories: ['layer-1', 'blockchain']
-tags: [all,2k18] # Tag names should always be lowercase
+tags: [draft,all,2k18] # Tag names should always be lowercase
 ---
 
 

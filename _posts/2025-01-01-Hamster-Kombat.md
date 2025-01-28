@@ -3,7 +3,7 @@ layout: post
 title: "Hamster Kombat"
 date: 2025-01-01
 categories: ['gaming', 'play-to-earn', 'mobile']
-tags: [all]
+tags: [draft,all]
 
 ---
 

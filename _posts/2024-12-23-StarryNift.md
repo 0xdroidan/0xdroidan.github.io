@@ -3,7 +3,7 @@ layout: post
 title: "StarryNift"
 date: 2024-09-20
 categories: ['nft', 'platform']
-tags: [all]
+tags: [draft,all]
 
 ---
 

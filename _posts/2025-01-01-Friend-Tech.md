@@ -3,7 +3,7 @@ layout: post
 title: "Friend Tech"
 date: 2025-01-01
 categories: ['social', 'tokenization', 'networking']
-tags: [all]
+tags: [draft,all]
 
 ---
 

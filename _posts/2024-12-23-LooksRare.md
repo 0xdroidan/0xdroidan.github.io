@@ -3,7 +3,7 @@ layout: post
 title: "LooksRare"
 date: 2022-01-11 03:21:08 +0530
 categories: ['nft', 'marketplace']
-tags: [all,nft,2k22] # Tag names should always be lowercase
+tags: [draft,all,nft,2k22] # Tag names should always be lowercase
 ---
 
 
@@ -32,7 +32,7 @@ LOOKS
 
 LooksRare recorded all trading volume conducted by all users of Opensea from Ethereum Block 12642194 to Block 13812868 (16th Jun 2021 to 16th Dec 2021). Only volume on the Ethereum blockchain was recorded: Polygon blockchain (MATIC) volume is not included.
 
-## Amount Received in tokens  
+## Amount Received in tokens
 
 | Max        |    Median / Average  |       Min    |
 | ---------- |:--------------------:| ------------:|

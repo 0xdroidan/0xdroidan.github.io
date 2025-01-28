@@ -3,7 +3,7 @@ layout: post
 title: "Ampleforth"
 date: 2021-04-21 03:21:08 +0530
 categories: ['defi', 'stablecoin', 'rebase']
-tags: [all,2k21] # Tag names should always be lowercase
+tags: [draft,all,2k21] # Tag names should always be lowercase
 ---
 
 

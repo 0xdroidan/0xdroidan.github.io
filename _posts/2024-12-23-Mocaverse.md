@@ -3,7 +3,7 @@ layout: post
 title: "Mocaverse"
 date: 2024-06-19
 categories: ['gaming', 'metaverse', 'blockchain']
-tags: [all]
+tags: [draft,all]
 
 ---
 

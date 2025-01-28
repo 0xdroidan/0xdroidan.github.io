@@ -3,7 +3,7 @@ layout: post
 title: "Badger DAO"
 date: 2020-12-04 03:21:08 +0530
 categories: ['defi', 'bitcoin', 'dao']
-tags: [all,2k20,yield aggregator] # Tag names should always be lowercase
+tags: [draft,all,2k20,yield aggregator] # Tag names should always be lowercase
 ---
 
 

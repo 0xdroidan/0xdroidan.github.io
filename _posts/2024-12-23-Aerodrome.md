@@ -3,7 +3,7 @@ layout: post
 title: "Aerodrome"
 date: 2023-08-05
 categories: ['defi', 'liquidity', 'yield-farming']
-tags: [all]
+tags: [draft,all]
 
 ---
 

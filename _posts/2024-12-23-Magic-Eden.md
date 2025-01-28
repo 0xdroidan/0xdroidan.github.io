@@ -3,7 +3,7 @@ layout: post
 title: "Magic Eden"
 date: 2024-12-10
 categories: ['nft', 'marketplace']
-tags: [all]
+tags: [draft,all]
 
 ---
 

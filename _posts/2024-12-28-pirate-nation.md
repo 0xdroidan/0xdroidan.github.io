@@ -3,7 +3,7 @@ layout: post
 title: "Pirate Nation"
 date: 2024-06-13
 categories: ['gaming', 'ecosystem', 'nft']
-tags: [all]
+tags: [draft,all]
 
 ---
 

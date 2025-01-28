@@ -3,7 +3,7 @@ layout: post
 title: "Bonk"
 date: 2023-01-26
 categories: ['identity', 'infrastructure', 'finance']
-tags: [all]
+tags: [draft,all]
 
 ---
 

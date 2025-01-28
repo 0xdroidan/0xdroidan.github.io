@@ -3,7 +3,7 @@ layout: post
 title: "Across Protocol"
 date: 2022-11-28 03:21:08 +0530
 categories: ['infrastructure', 'cross-chain', 'liquidity']
-tags: [all,2k22, bridge] # Tag names should always be lowercase
+tags: [draft,all,2k22, bridge] # Tag names should always be lowercase
 ---
 
 

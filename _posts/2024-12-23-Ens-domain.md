@@ -3,7 +3,7 @@ layout: post
 title: "Ens domain"
 date: 2021-11-10 03:21:08 +0530
 categories: ['identity', 'naming']
-tags: [all,2k21] # Tag names should always be lowercase
+tags: [draft,all,2k21] # Tag names should always be lowercase
 ---
 
 

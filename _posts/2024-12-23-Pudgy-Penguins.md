@@ -3,7 +3,7 @@ layout: post
 title: "Pudgy Penguins"
 date: 2024-12-17
 categories: ['nft', 'collection']
-tags: [all]
+tags: [draft,all]
 
 ---
 

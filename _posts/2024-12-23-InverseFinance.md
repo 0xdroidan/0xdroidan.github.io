@@ -3,7 +3,7 @@ layout: post
 title: "InverseFinance"
 date: 2023-04-08 03:21:08 +0530
 categories: ['defi', 'lending', 'synthetics']
-tags: [all] # Tag names should always be lowercase
+tags: [draft,all] # Tag names should always be lowercase
 ---
 
 
