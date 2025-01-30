@@ -51,8 +51,6 @@ NFT & Holder
 
 {% endcomment %}
 
-{% endcomment %}
-
 ## [Criteria For Airdrop](https://www.anime.xyz/faq#token-allocation-determination)
 
 ### Core Criteria
