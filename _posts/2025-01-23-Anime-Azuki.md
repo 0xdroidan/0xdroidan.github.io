@@ -21,13 +21,10 @@ ANIME coin is the custom gas token for Animechain, an L3 blockchain built with A
 
 {% comment %}
 
-{% comment %}
-
 ## Token claim
 
 Eligible User : not known
 Number of Claimants : not known
-{% endcomment %}
 {% endcomment %}
 
 ## Project Ticker
@@ -43,8 +40,6 @@ NFT & Holder
 | Blockchain snapshot | Claiming Started | Claiming ends |
 | ------------------- | :--------------: | ------------: |
 | not known           |   Jan 23, 2025   | March 9, 2025 |
-
-{% comment %}
 
 {% comment %}
 
