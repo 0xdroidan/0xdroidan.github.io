@@ -15,67 +15,55 @@ categories:
 tags: [all, nft, holder, 2k25]
 ---
 
-## [Project Description](https://www.anime.xyz/)
+## Basic Information
 
-ANIME coin is the custom gas token for Animechain, an L3 blockchain built with Arbitrum Orbit technology that allows for gasless (sponsored) transactions to decrease onboarding friction. $ANIME is the Culture Coin transforming anime’s 1 billion fans into a community-driven creative economy. Backed by Azuki, it empowers fans to own, create, and shape the future of anime. Join the movement and turn passion into power.
+| Information         | Details                                                                                                                                                                                                                  |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Project Name        | ANIME Coin                                                                                                                                                                                                               |
+| Project Website     | [Anime.xyz](https://www.anime.xyz/)                                                                                                                                                                                      |
+| Project Description | ANIME coin is the gas token for Animechain, an L3 blockchain using Arbitrum Orbit to enable gasless transactions. Backed by Azuki, it aims to transform anime’s 1 billion fans into a community-driven creative economy. |
+| Project Ticker      | ANIME                                                                                                                                                                                                                    |
 
-{% comment %}
+## Airdrop Details
 
-## Token claim
+| Information              | Details                                       |
+| ------------------------ | --------------------------------------------- |
+| Airdrop Type             | NFT & Holder                                  |
+| Total Airdrop Amount     | Not Known                                     |
+| Number of Eligible Users | Eligible User information not available       |
+| Number of Claimants      | Number of Claimants information not available |
 
-Eligible User : not known
-Number of Claimants : not known
-{% endcomment %}
+## Timeline
 
-## Project Ticker
+| Event               | Date             |
+| ------------------- | ---------------- |
+| Blockchain Snapshot | Not Known        |
+| Claiming Started    | January 23, 2025 |
+| Claiming Ends       | March 9, 2025    |
 
-ANIME
+## Token Distribution
 
-## Airdrop Type
+| Distribution   | Amount    |
+| -------------- | --------- |
+| Maximum        | Not Known |
+| Median/Average | Not Known |
+| Minimum        | Not Known |
 
-NFT & Holder
-
-## Airdrop Timeline
-
-| Blockchain snapshot | Claiming Started | Claiming ends |
-| ------------------- | :--------------: | ------------: |
-| not known           |   Jan 23, 2025   | March 9, 2025 |
-
-{% comment %}
-
-## Amount Received in tokens
-
-| Max       | Median / Average |       Min |
-| --------- | :--------------: | --------: |
-| not known |    not known     | not known |
-
-{% endcomment %}
-
-## [Criteria For Airdrop](https://www.anime.xyz/faq#token-allocation-determination)
+## [Eligibility Criteria](https://www.anime.xyz/faq#token-allocation-determination)
 
 ### Core Criteria
 
 #### Azuki, Elementals, and Beanz NFTs:
 
-**Emblems Allocation:**
-
-- **NFT Base Points:** The majority of allocations are derived directly from an NFT's "Collector Score." These scores can be viewed on [azuki.com/gallery](https://azuki.com/gallery).
-- **Multi-token emblems:** Collectors meeting the criteria for a Multi-Token emblem (e.g., holding all defined NFTs for a specific emblem like "Family") receive bonus points as specified on their Collector Profile. The allocation for these points is distributed evenly among all eligible NFTs and added incrementally to its Base Points allocation.
-
-**Gacha Grab & Time Held Allocation:**
-
-- **Gacha Grab Bonus:** NFTs with specific gacha holdings are awarded a bonus allocation. Rarer gachas earn larger rewards. Any unspun credits in Gacha Grab were automatically spun at the end of the game to determine the final Gacha rewards for that NFT.
-- **Time Held Bonus:** Collectors who held Azuki, Beanz, or Elemental NFTs before the start of Gacha Grab receive a small bonus allocation. This bonus was proportional to the time the assets were held, measured from the date of collection reveal to the start of Gacha Grab.
-
-  _Note: Unrevealed Elemental Beans do not have token allocation. An Elemental Bean minted before TGE must be revealed to unlock its token allocation, which will be available for claim for approximately two years following TGE._
+- **Emblems Allocation:** Based on NFT "Collector Score," viewable on [azuki.com/gallery](https://azuki.com/gallery).
+- **Multi-token Emblems:** Bonus points for holding multiple NFT types under defined emblems.
+- **Gacha Grab & Time Held Allocation:** Bonuses awarded for gacha holdings and NFT holding duration.
 
 #### Azuki ERC-1155s:
 
-- Allocations for certain ERC-1155 NFTs (e.g., **Ambush x Azuki, Bobu, Fractional Golden Skateboard**) will be assigned to the primary wallet on your Azuki Collector's Profile, not the NFTs themselves.
-- If you have **Twin Tigers Jacket NFTs** _AND_ qualify for the **"Chiru" multi-token emblem**, that allocation will be divided evenly across all your Azuki, Beanz, and Elemental NFTs.
-- **Gacha Grab Bonus Quests:** Allocation from Gacha Grab bonus quests is assigned to the primary wallet on your Azuki Collector's Profile.
-
----
+- Certain ERC-1155 NFTs (e.g., Ambush x Azuki, Bobu) are assigned allocations via the primary wallet on Azuki Collector’s Profile.
+- **Twin Tigers Jacket NFTs & "Chiru" Emblem:** Allocation distributed among all Azuki, Beanz, and Elemental NFTs.
+- **Gacha Grab Bonus Quests:** Allocated to the primary wallet on Azuki Collector’s Profile.
 
 ### Partner Communities Criteria
 
@@ -97,18 +85,21 @@ NFT & Holder
 
 #### Anime Communities:
 
-0N1 Force, A:\Aiko Virtual, Animetas, Atsuland Saga: Waifu, BaeCafe, Capsule House, CLONE X, Delabs Adventure Pass, DXNK, Everai, Gangster All Star, Isekai Meta, JUUNI Zodia, Kaiju Kingz, Karafuru, Kibatsu Mecha, Killer GF, Kitaro World, Kiwami GENESIS, KPR, LetsWalk, Lives of Asuna, MEGAMI_NFT, Memeland Captainz, MidnightBreeze, Neo Tokyo Citizens, Oekaki Maker, Persona, PXN: Ghost Division, RENGA, Rosentica: Starfall Travelers, San FranTokyo Visions, Shinsei Galverse, Shonen Junk Official, The Aswang Tribe, The Bosu Legacy, The Girls of Armament: GENE_SIS, Timeless Characters, tubby cats, uwucrew, Valhalla, Zokio
+Includes projects such as 0N1 Force, A:\Aiko Virtual, Animetas, Capsule House, CLONE X, Everai, Isekai Meta, Neo Tokyo Citizens, RENGA, uwucrew, Valhalla, and more.
 
----
-
-### Important Dates
+### Important Dates:
 
 - **Hyperliquid community snapshot:** January 11, 2025
-- **Arbitrum and other web3 anime community snapshots:** January 20, 2025
+- **Arbitrum and Web3 anime community snapshots:** January 20, 2025
 - **Kaito yappers wave 1 rewards end:** January 30, 2025 (More details coming soon)
 
-## Any other links
+## Important Links
 
-## [Claimants Overview & Token Distribution Analysis](https://dune.com/entropy_advisors/anime-airdrop-analysis)
+- Price Tracking: [CoinMarketCap](https://coinmarketcap.com/currencies/anime)
+- Price Tracking: [CoinGecko](https://www.coingecko.com/en/coins/anime)
+- Claimants Overview & Token Distribution Analysis: [Dune Analytics](https://dune.com/entropy_advisors/anime-airdrop-analysis)
 
-For checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/anime) and [coingecko](https://www.coingecko.com/en/coins/anime)
+## Additional Information
+
+- Unrevealed Elemental Beans minted before TGE must be revealed to unlock token allocation.
+- Token claims will be available for approximately two years following TGE.

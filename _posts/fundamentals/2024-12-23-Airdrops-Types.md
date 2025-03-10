@@ -69,3 +69,5 @@ Crypto airdrops come in various forms, each with different objectives and eligib
 - **Example:** Compound and Aave airdropping governance tokens to their users.
 
 ---
+ stakers
+ testnet 
