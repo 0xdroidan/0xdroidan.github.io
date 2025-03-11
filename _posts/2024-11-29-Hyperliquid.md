@@ -42,6 +42,8 @@ tags: [draft, all]
 
 ## Eligibility Criteria
 
+Exact airdrop criteria were not explicitly detailed in a single official list across all sources, the following points are inferred from announcements, posts on X, and related web content.
+
 - Users needed to earn points by March 26, 2024.
 - Users were required to accept the new Terms & Conditions on the website before the token launch in April 2024.
 - Points were the key determinant for airdrop eligibility, with volume traded being the primary factor in earning points.

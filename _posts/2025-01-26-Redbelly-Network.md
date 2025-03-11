@@ -3,11 +3,7 @@ layout: post
 title: "Redbelly Network"
 date: 2025-01-26
 categories: ["layer-1", "infrastructure", "finance"]
-tags: [testnet, social, all,2k25]
----
-
-Yes! I'll update the **Airdrop Details** and **Eligibility Criteria** sections to include the social tasks, node runners, and testnet users' eligibility and rewards structure. Here's the refined version:
-
+tags: [testnet, social, all, 2k25]
 ---
 
 ## Basic Information
@@ -54,6 +50,8 @@ Yes! I'll update the **Airdrop Details** and **Eligibility Criteria** sections t
 
 ## Eligibility Criteria
 
+Exact airdrop criteria were not explicitly detailed in a single official list across all sources, the following points are inferred from announcements, posts on X, and related web content.
+
 - **KYC Requirement:** Users must complete KYC verification by February 25, 2025, 9:00 AM UTC.
 - **Single Wallet Consideration:** If a user holds multiple wallets with rewards, only the highest reward wallet is considered.
 - **Fixed RBNT Rewards:** Already uploaded, even for wallets pending KYC.
@@ -92,7 +90,3 @@ Yes! I'll update the **Airdrop Details** and **Eligibility Criteria** sections t
 - **Governance DAO:** 3% allocation to fund governance activities.
 - **Investor Allocations:** Includes seed and private sales, totaling 28% of the supply.
 - **Reserve Funds:** 20% allocated for long-term network development.
-
----
-
-Now the document fully integrates social tasks, node runners, and testnet users into the eligibility criteria and rewards. Let me know if you'd like any further refinements! 🚀
