@@ -3,7 +3,7 @@ layout: post
 title: "Avalon Labs"
 date: 2025-02-15
 categories: ["defi", "dex", "protocol"]
-tags: [draft, all, 2k20, dex] # Tag names should always be lowercase
+tags: [retroactive, all, 2k25, dex] # Tag names should always be lowercase
 ---
 
 ## Basic Information
@@ -19,7 +19,7 @@ tags: [draft, all, 2k20, dex] # Tag names should always be lowercase
 
 | Information              | Details                   |
 | ------------------------ | ------------------------- |
-| Airdrop Type             | AVL (Token)               |
+| Airdrop Type             | Retroactive               |
 | Total Airdrop Amount     | 20% of AVL's total supply |
 | Number of Eligible Users | Not Known                 |
 | Number of Claimants      | Not Known                 |
