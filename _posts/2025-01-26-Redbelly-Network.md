@@ -81,7 +81,7 @@ Exact airdrop criteria were not explicitly detailed in a single official list ac
 - [Redbelly Network Official Website](https://redbelly.network)
 - [Airdrop Claim Page](https://redbelly.network/rewards-claim)
 - [Rewards Checker](https://redbelly.network/rewards-checker)
-- [Official Twitter/X](https://x.com/RedbellyNetwork)
+- [Official Twitter/X](https://x.com/RedbellyNetwork/status/1884208617601261932)
 - [Official Blog Post](https://medium.com/@redbellyblockchain/redbelly-network-building-the-future-of-tokenomics-with-rbnt-4f1e2667d6ab)
 
 ## Additional Information
