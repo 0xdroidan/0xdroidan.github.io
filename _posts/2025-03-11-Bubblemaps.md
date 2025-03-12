@@ -20,7 +20,7 @@ tags: [retroactive, 2k25, all]
 
 | Information              | Details                                                                                         |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
-| Airdrop Type             | BMT (Governance Token)                                                                          |
+| Airdrop Type             | Retroactive                                                                                     |
 | Total Airdrop Amount     | Not Known                                                                                       |
 | Number of Eligible Users | Approximately 50,000 users have participated in the points campaign so far. citeturn0search8 |
 | Number of Claimants      | Not Known                                                                                       |
@@ -84,4 +84,3 @@ Selection Breakdown:
 - Eligible users must **connect their Solana address** to the **Claiming Portal** at **TGE** to claim their tokens.
 - Bubblemaps has implemented **sybil detection** to prevent bot and spam accounts from receiving airdrops.
 - Holding **BMT** will unlock exclusive Bubblemaps features such as **cross-chain analytics**, **AI-powered cluster analysis**, and **on-chain investigative tools**.
-
