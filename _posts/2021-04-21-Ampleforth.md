@@ -3,43 +3,66 @@ layout: post
 title: "Ampleforth"
 date: 2021-04-21 03:21:08 +0530
 categories: ["defi", "stablecoin", "rebase"]
-tags: [draft, all, 2k21] # Tag names should always be lowercase
+tags: [retroactive, all, 2k21] # Tag names should always be lowercase
 ---
 
-## [Ampleforth Website](https://www.ampleforth.org/)
+## Basic Information
 
-According to their website The Ampleforth protocol is a set of instructions on the Ethereum blockchain that produces a decentralized unit of account called AMPL. The AMPL token is the primary building block of the Ampleforth Elastic Finance Ecosystem. It is used for lending & borrowing, for the creation of derivatives, and as collateral for a decentralized stablecoin.
+| Information         | Details                                                                                                                                                                                         |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project Name        | Ampleforth                                                                                                                                                                                      |
+| Project Website     | [Ampleforth](https://www.ampleforth.org/)                                                                                                                                                       |
+| Project Description | Ampleforth is a rebasing cryptocurrency designed to be a financial building block for DeFi and traditional finance. It functions independently of traditional banks and lenders of last resort. |
+| Project Ticker      | AMPL (Ampleforth) / FORTH (Governance Token)                                                                                                                                                    |
 
-## Token claim
+## Airdrop Details
 
-Eligible User : 75,000
+| Information              | Details                              |
+| ------------------------ | ------------------------------------ |
+| Airdrop Type             | Retroactive (FORTH Governance Token) |
+| Total Airdrop Amount     | 15 million FORTH tokens              |
+| Number of Eligible Users | 75,000                               |
+| Number of Claimants      | 41,990                               |
 
-Number of Claimants : 41,990
+## Timeline
 
-## Airdrop Type
+| Event               | Date           |
+| ------------------- | -------------- |
+| Blockchain Snapshot | 30th, 2021     |
+| Claiming Started    | April 21, 2021 |
+| Claiming Ends       | April 16, 2022 |
 
-Retroactive
+## Token Distribution
 
-## Project Ticker
+| Distribution   | Amount              |
+| -------------- | ------------------- |
+| Maximum        | 3,552,137.42 FORTH  |
+| Median/Average | 92.61 / 230.4 FORTH |
+| Minimum        | 2.81 FORTH          |
 
-AMPL
+## Eligibility Criteria
 
-## Airdrop Timeline
+- Users who interacted with AMPL on-chain in a utility manner.
+- Exchange wallets are excluded.
+- Eligibility is determined based on a point system:
+  - Past, on-chain interaction with AMPL = 1 point (max)
+  - Geyser program participation (per day) = 1 point
+  - Negative rebase hold (per day) = 1 point
+- Geyser and Rebase points are uncapped, meaning long-term supporters accrued more points and thus more FORTH tokens.
 
-| Blockchain snapshot | Claiming Started |    Claiming ends |
-| ------------------- | :--------------: | ---------------: |
-| 30th, 2021          | April 21st, 2021 | April 16th, 2022 |
+## Important Links
 
-## Amount Received in tokens
+- [Claim FORTH Tokens](https://www.ampleforth.org/governance/claim)
+- [Official Announcement](http://blog.ampleforth.org/ampl-forth-realizing-the-full-ecosystem-e2d88ca01691)
+- Price Tracking: [CoinMarketCap](https://coinmarketcap.com/currencies/forth)
+- Price Tracking: [CoinGecko](https://www.coingecko.com/en/coins/forth)
 
-| Max          | Median / Average |  Min |
-| ------------ | :--------------: | ---: |
-| 3,552,137.42 |  92.61 / 230.4   | 2.81 |
+## Additional Information
 
-for checking price [coinmarketcap](https://coinmarketcap.com/currencies/ampl/) and [coingeko](https://www.coingecko.com/en/coins/ampl)
-
-## [Criteria For Airdrop](https://blog.ampleforth.org/ampl-forth-realizing-the-full-ecosystem-e2d88ca01691)
-
-- Past, on-chain interaction with AMPL = 1 point (max)
-- Geyser program participation (per day) = 1 point
-- Negative rebase hold (per day) = 1 point
+- 67% of FORTH is allocated to the AMPL community.
+- 33% of FORTH is allocated to early backers (core team, advisors, supporters, and Ampleforth Foundation).
+- Early backers follow a lock-up schedule:
+  - 5% unlocked after 7 days post-launch.
+  - Remaining 95% has a one-year cliff, then linearly unlocks over another year.
+- A perpetual 2% annual inflation rate will begin after one year.
+- 2.5% of the community allocation funds a public education program (Coinbase Earn campaign).

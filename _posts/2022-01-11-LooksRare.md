@@ -3,57 +3,82 @@ layout: post
 title: "LooksRare"
 date: 2022-01-11 03:21:08 +0530
 categories: ["nft", "marketplace"]
-tags: [draft, all, nft, 2k22] # Tag names should always be lowercase
+tags: [retroactive, all, nft, 2k22] # Tag names should always be lowercase
 ---
 
-## [LooksRare Website](https://looksrare.org/)
+## Basic Information
 
-According to their website LooksRare is a community-first marketplace for NFTs and digital collectibles on Ethereum. Trade non-fungible tokens with crypto to get rewards.
+| Information         | Details                                                                     |
+| ------------------- | --------------------------------------------------------------------------- |
+| Project Name        | LooksRare                                                                   |
+| Project Website     | [LooksRare](https://looksrare.org)                                          |
+| Project Description | A decentralized NFT marketplace that rewards users for trading and staking. |
+| Project Ticker      | LOOKS                                                                       |
 
-## Token claim
+## Airdrop Details
 
-Eligible User : 185,223
+| Information              | Details                                 |
+| ------------------------ | --------------------------------------- |
+| Airdrop Type             | Retroactive                             |
+| Total Airdrop Amount     | 120,000,000 LOOKS (12% of total supply) |
+| Number of Eligible Users | 185,223                                 |
+| Number of Claimants      | 124,666                                 |
 
-Number of Claimants : 124,666
+## Timeline
 
-## Project Ticker
+| Event               | Date               |
+| ------------------- | ------------------ |
+| Blockchain Snapshot | 16th Dec 2021      |
+| Claiming Started    | 11th Jan 2022      |
+| Claiming Ends       | 23rd-26th Jan 2022 |
 
-LOOKS
+## Token Distribution
 
-## Airdrop Type
+| Distribution   | Amount             |
+| -------------- | ------------------ |
+| Maximum        | 10,000 LOOKS       |
+| Median/Average | 400 / 962.57 LOOKS |
+| Minimum        | 125 LOOKS          |
 
-## Airdrop Timeline
+### Airdrop Tiers
 
-| Blockchain snapshot | Claiming Started |    Claiming ends |
-| ------------------- | :--------------: | ---------------: |
-| 16th Dec 2021       |   11 Jan 2022    | 23/26th Dec 2021 |
+| Tier | ETH Volume (6-month period) | LOOKS Per Wallet | Total Tokens in Tier |
+| ---- | --------------------------- | ---------------- | -------------------- |
+| 1    | ≥ 1000 ETH                  | 10,000           | 4,520,000            |
+| 2    | 250 - 999 ETH               | 4,540            | 18,918,225           |
+| 3    | 120 - 249 ETH               | 2,450            | 16,709,000           |
+| 4    | 60 - 119 ETH                | 1,500            | 17,967,000           |
+| 5    | 35 - 59 ETH                 | 1,200            | 17,175,600           |
+| 6    | 20 - 34 ETH                 | 800              | 16,461,600           |
+| 7    | 10 - 19 ETH                 | 400              | 14,311,200           |
+| 8    | 6 - 9 ETH                   | 200              | 6,787,000            |
+| 9    | 3 - 5 ETH                   | 125              | 7,150,375            |
+| 10   | < 3 ETH                     | 0                | 0                    |
 
-LooksRare recorded all trading volume conducted by all users of Opensea from Ethereum Block 12642194 to Block 13812868 (16th Jun 2021 to 16th Dec 2021). Only volume on the Ethereum blockchain was recorded: Polygon blockchain (MATIC) volume is not included.
+## Eligibility Criteria
 
-## Amount Received in tokens
+To qualify for the LOOKS airdrop, users must meet the following requirements:
 
-| Max          | Median / Average |    Min |
-| ------------ | :--------------: | -----: |
-| 21,633,518.7 | 400.00 / 962.57  | 125.00 |
+- **Trading Volume Requirement:** Traded at least **3 ETH** on OpenSea between **Ethereum Block 12642194 (16th Jun 2021) and Block 13812868 (16th Dec 2021)**.
+- **Listing Requirement:** Must **list at least one** ERC-721 or ERC-1155 NFT on LooksRare to claim the airdrop.
+- **Eligible Volume:** Includes buy/sell trades made in **ETH, WETH, USDC, DAI, SAND, GALA, and MANA**, converted to ETH at the trade time.
+- **Blockchain Restriction:** Only Ethereum-based transactions count. Polygon-based volume is **not included**.
+- **Tiers-Based Allocation:** Based on total trading volume in ETH, users receive different amounts of LOOKS.
 
-for checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/looksrare) and [coingeko](https://www.coingecko.com/en/coins/looksrare)
+## Important Links
 
-## [Criteria For Airdrop](https://docs.looksrare.org/guides/faqs/what-is-the-looks-airdrop)
+- **Airdrop Claim:** [LooksRare](https://looksrare.org)
+- **Official Announcement:** [LooksRare Docs](https://docs.looksrare.org/guides/faqs/what-is-the-looks-airdrop)
+- **LOOKS Token Contract:** `0xf4d2888d29d722226fafa5d9b24f9164c092421e`
+- **Price Tracking:** [CoinMarketCap](https://coinmarketcap.com/currencies/looksrare/) |
+  [CoinGecko](https://www.coingecko.com/en/coins/looksrare)
 
-- anyone with a combined 3 ETH trading volume or more on Opensea over a six month period (from Ethereum Block 12642194 on 16th Jun 2021 to Block 13812868 on 16th Dec 2021) is eligible to claim LOOKS, once they list an ERC-721 or ERC-1155 NFT for sale on LooksRare.
+## Additional Information
 
-- They had set 9 different tiers for the airdrop. Each eligible wallet will be able to claim an amount of LOOKS corresponding to their total trading volume in ETH.
+- **LOOKS Staking Benefits:** 100% of LooksRare’s trading fees are distributed among LOOKS stakers.
+- **LOOKS Staking Rewards:** Stakers earn additional LOOKS tokens.
+- **Unclaimed Tokens:** Any LOOKS not claimed by the deadline will go to the LooksRare Treasury for ecosystem development.
 
-|Tier|ETH Volume in time period|LOOKS Tokens Per Wallet|
-|1 | >=1000 |10,000|
-|2 | >=250 to 1000 |4,540|
-|3 | >=120 to 250 |2,450|
-|4 | >=60 to 120 |1,500|
-|5 | >=35 to 60 |1,200|
-|6 | >=20 to 35 | 800|
-|7 | >=10 to 20 | 400|
-|8 | >=6 to 10 | 200|
-|9 | >=3 to 6 | 125|
-|10 | <3 | 0|
+---
 
-## Any other links
+That should be complete now! Let me know if you need any refinements. 🚀🔥

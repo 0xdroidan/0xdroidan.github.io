@@ -3,69 +3,76 @@ layout: post
 title: Sturdy Finance
 date: 2022-11-21 05:44 +0530
 categories: ["defi", "lending", "risk-management"]
-tags: [draft, all, lending]
+tags: [retroactive, 2k22, all]
 ---
 
-## [Project Website](sturdy.finance)
+## Basic Information
 
-Sturdy is a first of its kind DeFi protocol for interest-free borrowing and high yield lending. Rather than charging borrowers interest, Sturdy stakes their collateral and passes the yield to lenders. This model changes the relationship between borrowers and lenders to make Sturdy the first positive-sum lending protocol.
+| Information         | Details                                                                                                                                                                                  |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project Name        | Sturdy                                                                                                                                                                                   |
+| Project Website     | [Sturdy Finance](https://sturdy.finance)                                                                                                                                                 |
+| Project Description | A lending protocol that enables borrowers to farm with up to 10x leverage on projects like Convex and Aura, while allowing lenders to earn yield without the associated risks and costs. |
+| Project Ticker      | STRDY                                                                                                                                                                                    |
 
-{% comment %}
+## Airdrop Details
 
-## Token claim
+| Information              | Details                                |
+| ------------------------ | -------------------------------------- |
+| Airdrop Type             | Retroactive                            |
+| Total Airdrop Amount     | 1,500,000 STRDY (1.5% of total supply) |
+| Number of Eligible Users | Not Known                              |
+| Number of Claimants      | Not Known                              |
 
-Eligible User : not known
-Number of Claimants : not known
-{% endcomment %}
+## Timeline
 
-## Project Ticker
+| Event               | Date              |
+| ------------------- | ----------------- |
+| Blockchain Snapshot | November 21, 2022 |
+| Claiming Started    | Feb 21, 2022      |
+| Claiming Ends       | Not Known         |
 
-## Airdrop Type
+## Token Distribution
 
-Retroactive
+| Distribution   | Amount    |
+| -------------- | --------- |
+| Maximum        | Not Known |
+| Median/Average | Not Known |
+| Minimum        | Not Known |
 
-## Airdrop Timeline
+## [Eligibility Criteria](https://airdrop.sturdy.finance/)
 
-| Blockchain snapshot | Claiming Started | Claiming ends |
-| ------------------- | :--------------: | ------------: |
-| November 21, 2022   |    not known     |     not known |
+Early users of Sturdy and partner protocols are eligible to receive STRDY tokens. Tokens are initially non-transferable.
 
-{% comment %}
+### Eligibility Requirements:
 
-## Amount Received in tokens
+- **Sturdy Depositors**: Users who deposited over $50 in Sturdy as of November 21, 2022.
+- **Aura Stakers**: Users who staked over $1,000 in the Aura Aave Boosted pool or over 1 ETH in the Aura wstETH/WETH pool as of November 21, 2022.
+- **Convex Stakers**: Users who staked over $1,000 in the Convex FRAXBP, FRAXBPTUSD, FRAX3CRV, or sUSD pool, or over 1 ETH in the Convex stETH/ETH pool as of November 21, 2022.
+- **Yearn Depositors**: Users who deposited over $1,000 in the Yearn USDC, USOT, DAI, or Curve SUSO vault, or over 1 ETH in the Yearn Curve stETH vault as of November 21, 2022.
+- **DegenScore Holders**: Users who are in the top 500 of DegenScore Beacon holders.
 
-| Max       | Median / Average |       Min |
-| --------- | :--------------: | --------: |
-| not known |    not known     | not known |
+### Multipliers:
 
-{% endcomment %}
+- **Diamond Hands Multiplier**: Users who did not withdraw after the airdrop announcement receive a 2x multiplier if they still had >$50 deposited in Sturdy as of February 5, 2023.
+- **OG Multiplier**: Based on the duration of deposits. 1x if deposited <30 days before the snapshot, 3x if deposited >150 days before, with a linear equation in between.
+- **Borrow Multiplier**: Users who borrowed >$200 on Ethereum as of the snapshot receive a 2x multiplier.
+- **Size Multiplier**: Users with <$1,000 deposited receive a 1x multiplier, while those with ≥$100,000 deposited receive a 3x multiplier, with a linear scale in between.
 
-for checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/) and [coingeko](https://www.coingecko.com/en/coins/)
+## Important Links
 
-## [Criteria For Airdrop](https://airdrop.sturdy.finance/)
+- Price Tracking: [CoinMarketCap](https://coinmarketcap.com/currencies/sturdy)
+- Price Tracking: [CoinGecko](https://www.coingecko.com/en/coins/sturdy)
+- Eligibility Criteria: [Airdrop Announcement](https://airdrop.sturdy.finance/)
+- Official Announcement: [STRDY Tokenomics](https://sturdyfinance.medium.com/strdy-tokenomics-13d06233cab1)
 
-Early users of Sturdy and partner protocols are eligible to receive a portion of $STURDY tokens. Tokens are initially non-transferable.
+## Additional Information
 
-- Users who have deposited over $50 in Sturdy as of November 21, 2022.
-
-- Users who have staked over $1,000 in the Aura Aave Boosted pool or over 1 ETH in the Aura wstETH/WETH pool as of November 21, 2022
-
-- Users who have staked over $1,000 in the Convex FRAXBP, FRAXBPTUSD, FRAX3CRV, or sUSD pool, or over 1 ETH in the Convex stETH/ETH pool as of November 21, 2022
-
-- Users who have deposited over $1,000 in the Yearn USDC, USOT, DAI, or Curve SUSO vault, or over 1 ETH in the Yearn Curve stETH vault as of November 21, 2022
-
-- Users who are in the top 500 of DegenScore Beacon holders
-
-Multipliers
-
-- Diamond hands multiplier For users who did not withdraw following the airdrop announcement. Equal to 2 if the user still had >$50 deposited in Sturdy as of Feb 5, 1 otherwise.
-
-- OG multiplier Based on the amount of time users were deposited. Equal to 1 if the user had deposited <30 days before snapshot, 3 if > 150 days, and linear equation in between.
-
-- Borrow multiplier For users who spent their hard-earned ETH on gas to borrow on Sturdy. Equal to 2 if >$200 borrowed on Ethereum as of snapshot, 1 otherwise.
-
-- Size multiplier Is your size size? Equal to 1 if user had <-$1,000 deposited as of snapshot, 3 if >=$100,000, and linear equation in between.
-
-## Any other links
-
-<https://sturdyfinance.medium.com/strdy-tokenomics-13d06233cab1>
+- **Token Supply**: 100,000,000 STRDY
+- **Token Allocation**:
+  - **Contributors**: 19% (3-year vesting, 1-year cliff)
+  - **Investors**: 19% (3-year vesting, 1-year cliff)
+  - **Airdrop**: 1.5% (No vesting)
+  - **Treasury**: 60.5% (Controlled by governance, no vesting)
+- STRDY tokens will initially be **non-transferable** until governance decides otherwise.
+- The airdrop claim process is expected to go live within two weeks of February 14, 2023.
