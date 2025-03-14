@@ -3,7 +3,7 @@ layout: post
 title: "Criteria For Airdrops"
 date: 2017-04-09 03:21:08 +0530
 categories: ["Airdrop-Basics"]
-tags: [draft, basics, introduction] # Tag names should always be lowercase
+tags: [ basics, introduction] # Tag names should always be lowercase
 pin: true
 ---
 

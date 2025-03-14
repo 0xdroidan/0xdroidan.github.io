@@ -3,7 +3,7 @@ layout: post
 title: "Animeswap"
 date: 2022-10-19
 categories: ["defi", "dex", "aptos-ecosystem"]
-tags: [draft, all]
+tags: [retroactive,2k22, all]
 ---
 
 ## Basic Information
