@@ -3,45 +3,44 @@ layout: post
 title: "Badger DAO"
 date: 2020-12-04 03:21:08 +0530
 categories: ["defi", "bitcoin", "dao"]
-tags: [draft, all, 2k20, yield aggregator] # Tag names should always be lowercase
+tags: [retroactive, all, 2k20, yield aggregator] # Tag names should always be lowercase
 ---
 
-## [BadgerDao Website](https://app.badger.com/)
+## Basic Information
 
-BadgerDAO is a decentralized collective of builders supporting community driven growth for Bitcoin across DeFi.
+| Information         | Details                                                                                            |
+| ------------------- | -------------------------------------------------------------------------------------------------- |
+| Project Name        | BadgerDAO                                                                                          |
+| Project Website     | [BadgerDAO Website](https://app.badger.com/)                                                       |
+| Project Description | A decentralized collective of builders supporting community-driven growth for Bitcoin across DeFi. |
+| Project Ticker      | BADGER                                                                                             |
 
-## Token claim
+## Airdrop Details
 
-Eligible User : 32000
-Number of Claimants : not known
+| Information              | Details        |
+| ------------------------ | -------------- |
+| Airdrop Type             | Retroactive |
+| Total Airdrop Amount     | Not Known      |
+| Number of Eligible Users | 32,000         |
+| Number of Claimants      | Not Known      |
 
-## Project Ticker
+## Timeline
 
-BADGER
+| Event               | Date       |
+| ------------------- | ---------- |
+| Blockchain Snapshot | Not Known  |
+| Claiming Started    | 2020-12-04 |
+| Claiming Ends       | 2020-12-09 |
 
-## Airdrop Type
-
-## Airdrop Timeline
-
-| Blockchain snapshot | Claiming Started | Claiming ends |
-| ------------------- | :--------------: | ------------: |
-| not known           |    2020-12-04    |    2020-12-09 |
-
-Users were given a 48-hour grace period from the launch of the rewards program to claim their rewards. After this period, every 24 hours, 20% of their $BADGER rewards were redistributed to a community pool. It was critical for users to claim their rewards as quickly as possible to avoid missing out on them. By the end of 5 days, all rewards would have been redistributed, and there would be no more rewards left for users to claim.
+## Token Distribution
 
 {% comment %}
-
-## Amount Received in tokens
-
-| Max       | Median / Average |       Min |
-| --------- | :--------------: | --------: |
-| not known |    not known     | not known |
-
+Token distribution information not available
 {% endcomment %}
 
-for checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/badger-dao) and [coingeko](https://www.coingecko.com/en/coins/badger-dao)
+## [Eligibility Criteria](https://badgerdao.medium.com/how-to-claim-your-badger-airdrop-bcab0bd3dc25)
 
-## [Criteria For Airdrop](https://badgerdao.medium.com/how-to-claim-your-badger-airdrop-bcab0bd3dc25)
+Users who met any of the following conditions were eligible for the airdrop:
 
 - Participated in SUSHI Governance
 - Supplied/Borrowed wBTC on Compound
@@ -49,17 +48,22 @@ for checking price visit [coinmarketcap](https://coinmarketcap.com/currencies/ba
 - Deposited/Borrowed wBTC on Aave
 - Participated in Yearn.Finance Governance
 - Participated in Yam Governance
-- Minted wBTC
-- Minted renBTC
-- Minted sBTC
-- The LAO Members
+- Minted wBTC, renBTC, sBTC, or tBTC
+- Members of The LAO or dORG DAO
 - Deposited in sBTC and renBTC pools on Curve.fi
 - Participated in 1Hive Governance
-- Provided liquidity for wBTC/ETH pool on Balancer
+- Provided liquidity for wBTC/ETH pool on Balancer or Uniswap
 - Supplied/Borrowed wBTC on Maker
 - Donated to Gitcoin
-- Provided liquidity for wBTC/ETH pool on Uniswap
-- Member of dORG DAO
-- Minted tBTC
 
-## Any other links
+## Important Links
+
+- Price Tracking: [CoinMarketCap](https://coinmarketcap.com/currencies/badger-dao)
+- Price Tracking: [CoinGecko](https://www.coingecko.com/en/coins/badger-dao)
+- Eligibility Criteria: [Medium Blog Post](https://badgerdao.medium.com/how-to-claim-your-badger-airdrop-bcab0bd3dc25)
+
+## Additional Information
+
+- Users had a 48-hour grace period from launch to claim rewards before redistribution began.
+- Every 24 hours, 20% of unclaimed $BADGER rewards were redistributed to a community pool.
+- By the end of five days, all rewards were fully redistributed, and no further claims could be made.
