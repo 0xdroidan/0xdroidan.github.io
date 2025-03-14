@@ -9,8 +9,8 @@ categories:
     "community",
     layer-3-chain,
     arbitrum-orbit,
-    Ethereum-Ecosystem,
-    Arbitrum-Ecosystem,
+    ethereum-ecosystem,
+    arbitrum-ecosystem,
   ]
 tags: [all, nft, holder, 2k25]
 ---
