@@ -78,6 +78,7 @@ Selection Breakdown:
 - Official Announcement: [Bubblemaps Blog Post](https://blog.bubblemaps.io/its-official-the-incoming-token/)
 - Eligibility Criteria: [Twitter Announcement](https://x.com/bubblemaps/status/1899384817734803470)
 - Eligibility Criteria: [Check Criteria](https://wiki.bubblemaps.io/bmt/airdrop/v2-users)
+- [Check eligibility](https://docs.google.com/spreadsheets/d/1E3sUl0VMn_icqf40xor0zUNOyXk2I6lGtcr6hLheeP8/)
 
 ## Additional Information
 
