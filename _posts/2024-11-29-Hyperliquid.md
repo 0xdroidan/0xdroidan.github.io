@@ -3,7 +3,7 @@ layout: post
 title: "Hyperliquid"
 date: 2024-11-29
 categories: ["defi", "layer-1", "perpetuals"]
-tags: [draft, all]
+tags: [retroactive,2k24, all]
 ---
 
 ## Basic Information
