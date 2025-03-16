@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Bonk"
-date: 2023-01-26
+title: "Worldcoin"
+date: 2024-11-27
 categories: ["identity", "infrastructure", "finance"]
 tags: [2k23, retroactive, all]
 ---
@@ -57,7 +57,8 @@ Completing both Orb and Passport Verifications demonstrates the highest level of
 - Official Announcement: [Updates to the Airdrop Program](https://support.world.org/hc/en-us/articles/30969185598739-Updates-to-the-Airdrop-Program)
 - How Much WLD Can I Claim?: [World User Support](https://support.world.org/hc/en-us/articles/22200067310739-How-much-WLD-can-I-claim)
 - When Can I Start Claiming WLD?: [World User Support](https://support.world.org/hc/en-us/articles/16075438470547-When-can-I-start-claiming-WLD)
-
+- Price Tracking: [CoinMarketCap](https://coinmarketcap.com/currencies/worldcoin)
+- Price Tracking: [CoinGecko](https://www.coingecko.com/en/coins/worldcoin)
 ## Additional Information
 
 - **Claiming Process**:
