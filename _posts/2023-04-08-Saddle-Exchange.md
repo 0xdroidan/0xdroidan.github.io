@@ -3,7 +3,7 @@ layout: post
 title: "Saddle Exchange"
 date: 2023-04-08 03:21:08 +0530
 categories: ["defi", "stablecoin", "exchange"]
-tags: [draft, all] # Tag names should always be lowercase
+tags: [2k23,holder,retroactive, all] # Tag names should always be lowercase
 ---
 
 ## Basic Information

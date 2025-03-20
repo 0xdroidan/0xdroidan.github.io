@@ -3,7 +3,7 @@ layout: post
 title: "Rhea Finance"
 date: 2021-07-22 03:21:08 +0530
 categories: ["defi", "stablecoin", "algorithmic"]
-tags: [draft, all] # Tag names should always be lowercase
+tags: [retroactive,2k21, all] # Tag names should always be lowercase
 ---
 ## Basic Information
 | Information         | Details |
