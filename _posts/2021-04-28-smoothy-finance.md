@@ -3,7 +3,7 @@ layout: post
 title: Smoothy Finance
 date: 2021-04-28 05:10 +0530
 categories: ["defi", "yield", "aggregation"]
-tags: [retroactive,, all]
+tags: [retroactive,2k21, all]
 ---
 
 ## Basic Information
