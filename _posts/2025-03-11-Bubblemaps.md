@@ -13,7 +13,7 @@ tags: [retroactive, 2k25, all]
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Project Name        | Bubblemaps                                                                                                                                                           |
 | Project Website     | [https://bubblemaps.io](https://bubblemaps.io)                                                                                                                       |
-| Project Description | Bubblemaps is the first supply auditing tool for DeFi tokens and NFTs, utilizing unique and colorful bubbles to simplify on-chain data analysis. citeturn0search1 |
+| Project Description | Bubblemaps is the first supply auditing tool for DeFi tokens and NFTs, utilizing unique and colorful bubbles to simplify on-chain data analysis.|
 | Project Ticker      | BMT                                                                                                                                                                  |
 
 ## Airdrop Details
