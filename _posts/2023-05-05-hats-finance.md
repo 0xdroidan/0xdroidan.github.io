@@ -3,7 +3,7 @@ layout: post
 title: Hats finance
 date: 2024-07-26 04:33 +0530
 categories: ["infrastructure", "dao"]
-tags: [2k24, retroacctive, all]
+tags: [2k24, retroactive, all]
 ---
 
 ## Basic Information
