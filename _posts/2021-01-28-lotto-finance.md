@@ -3,7 +3,7 @@ layout: post
 title: Lotto Finance
 date: 2021-01-28 04:47 +0530
 categories: ["defi", "gambling", "lottery"]
-tags: [2k21, retroactive2k21, all]
+tags: [2k21, retroactive,2k21, all]
 ---
 
 ## Basic Information

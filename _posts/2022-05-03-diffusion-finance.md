@@ -3,7 +3,7 @@ layout: post
 title: Diffusion Finance
 date: 2022-05-03 04:22 +0530
 categories: ["defi", "dex"]
-tags: [holder, staker, 2k22, all]
+tags: [holder, staking, 2k22, all]
 ---
 
 ## Basic Information
@@ -19,7 +19,7 @@ tags: [holder, staker, 2k22, all]
 
 | Information              | Details                |
 | ------------------------ | ---------------------- |
-| Airdrop Type             | holder / staker        |
+| Airdrop Type             | holder / staking        |
 | Total Airdrop Amount     | 25 million DIFF tokens |
 | Number of Eligible Users | Not Known              |
 | Number of Claimants      | Not Known              |

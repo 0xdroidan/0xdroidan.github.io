@@ -19,7 +19,7 @@ tags: [testnet, holder, staking, 2k24, all]
 
 | Information              | Details                                       |
 | ------------------------ | --------------------------------------------- |
-| Airdrop Type             | testnet, holder, staker                       |
+| Airdrop Type             | testnet, holder, staking                       |
 | Total Airdrop Amount     | 51,300,000 SOAR tokens (2.7% of total supply) |
 | Number of Eligible Users | Not Known                                     |
 | Number of Claimants      | Not Known                                     |

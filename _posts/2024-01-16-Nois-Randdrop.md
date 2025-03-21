@@ -3,7 +3,7 @@ layout: post
 title: "Nois Randdrop"
 date: 2023-12-21
 categories: ["infrastructure", "randomness", "osmosis-ecosystem"]
-tags: [staker, 2k23, all,dead]
+tags: [staking, 2k23, all,dead]
 ---
 
 ## Basic Information
