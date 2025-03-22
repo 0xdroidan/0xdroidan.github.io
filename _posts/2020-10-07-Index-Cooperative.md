@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IndexCoop
+title: Index Cooperative
 date: 2020-10-07 04:57 +0530
 categories: ["defi", "index", "tokens"]
 tags: [2k20, retroactive, all]

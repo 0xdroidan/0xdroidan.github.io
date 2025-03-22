@@ -3,7 +3,7 @@ layout: post
 title: "Jupiter Jupuary"
 date: 2025-01-15
 categories: ["defi", "dex", "aggregator", "solana-ecosystem"]
-tags: [retroactive,2k25, all]
+tags: [retroactive, 2k25, all]
 ---
 
 ## Basic Information
@@ -17,12 +17,12 @@ tags: [retroactive,2k25, all]
 
 ## Airdrop Details
 
-| Information              | Details                |
-| ------------------------ | ---------------------- |
+| Information              | Details     |
+| ------------------------ | ----------- |
 | Airdrop Type             | Retroactive |
-| Total Airdrop Amount     | Not Known              |
-| Number of Eligible Users | Not Known              |
-| Number of Claimants      | Not Known              |
+| Total Airdrop Amount     | Not Known   |
+| Number of Eligible Users | Not Known   |
+| Number of Claimants      | Not Known   |
 
 ## Timeline
 
@@ -58,5 +58,6 @@ The eligibility period for the JUPUARY 2025 airdrop spans from **2 Nov 2023 - 1 
 - Official Announcement: [Jupiter Airdrop Proposal for JUPUARY (January 2025)](https://www.jupresear.ch/t/jupiter-airdrop-proposal-for-jupuary-january-2025/23119/1)
 - Price Tracking: [CoinMarketCap](https://coinmarketcap.com/currencies/jupiter/)
 - Price Tracking: [CoinGecko](https://www.coingecko.com/en/coins/jupiter)
-## Additional Information
+- [Tweet](https://x.com/JupiterExchange/status/1882089551726059548)
 
+## Additional Information
