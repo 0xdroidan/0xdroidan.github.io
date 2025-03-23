@@ -2,7 +2,7 @@
 layout: post
 title: "YieldNest"
 date: 2025-03-22
-categories: ["staking", "defi"
+categories: ["staking", "defi"]
 tags: [2k25, retroactive, all]
 ---
 
