@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gyroscope Protocol"
+title: "Walrus Protocol"
 date: 2025-03-19
 categories: ["defi", "sui-ecosystem"]
 tags: [2k25, retroactive, all]
