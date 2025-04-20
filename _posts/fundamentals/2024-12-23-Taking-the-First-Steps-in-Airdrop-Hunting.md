@@ -3,9 +3,10 @@ layout: post
 title: "Taking the First Steps in Airdrop Hunting"
 date: 2017-04-09 03:21:08 +0530
 categories: ["Airdrop-Basics"]
-tags: [ basics, introduction] # Tag names should always be lowercase
+tags: [basics, introduction] # Tag names should always be lowercase
 pin: true
---
+---
+
 Welcome to Part 2 of our guide on blockchain airdrop hunting! Now that you understand the essential concepts from Part 1, let's dive into the practical steps to start your journey.
 
 ## Choosing Your First Blockchain
@@ -22,12 +23,14 @@ That said, many successful airdrop hunters maintain wallets across multiple bloc
 ### For Ethereum and EVM Chains:
 
 **Option 1: MetaMask**
+
 1. Install **MetaMask** as a browser extension from [metamask.io](https://metamask.io/)
 2. Follow the setup process to create a new wallet
 3. **CRITICAL:** Write down your seed phrase (12-24 words) on paper and store it securely offline
 4. Never share your seed phrase or private keys with anyone
 
 **Option 2: Rabby Wallet**
+
 1. Install **Rabby Wallet** from [rabby.io](https://rabby.io/)
 2. Rabby offers enhanced security features and better multi-chain support than MetaMask
 3. It provides better gas fee estimations and transaction simulations
@@ -35,6 +38,7 @@ That said, many successful airdrop hunters maintain wallets across multiple bloc
 5. Many airdrop hunters prefer Rabby for its advanced features and user-friendly interface
 
 ### For Solana:
+
 1. Install **Phantom Wallet** from [phantom.app](https://phantom.app/)
 2. Create a new wallet and secure your seed phrase as above
 
@@ -53,10 +57,12 @@ If you're serious about crypto or accumulate valuable assets:
 ## Getting Your First Funds
 
 ### For Testnets (Free):
+
 - **Ethereum Sepolia**: Visit [sepoliafaucet.com](https://sepoliafaucet.com/) for free test ETH
 - **Solana Devnet**: Use [solfaucet.com](https://solfaucet.com/) for test SOL
 
 ### For Mainnets (Requires Purchase):
+
 1. **Create an account on a centralized exchange** like Coinbase, Binance, or Kraken
 2. Complete any required KYC verification
 3. Purchase the native token of your chosen blockchain (ETH for Ethereum, SOL for Solana)
@@ -72,6 +78,7 @@ Blockchain explorers are like Google Maps for blockchains—they let you see all
 - **Solana**: Use [Solscan.io](https://solscan.io/)
 
 ### How to Use a Blockchain Explorer:
+
 1. Enter your wallet address in the search bar
 2. View all your transactions and token holdings
 3. Verify that transactions were successful
@@ -84,6 +91,7 @@ Start with these simple but effective interactions to begin building your on-cha
 ### 1. Make Your First Swap on a DEX
 
 **On Ethereum:**
+
 1. Visit [app.uniswap.org](https://app.uniswap.org)
 2. Connect your wallet (click "Connect Wallet" in the top right)
 3. Swap a small amount of ETH for a popular token like USDC
@@ -91,6 +99,7 @@ Start with these simple but effective interactions to begin building your on-cha
    - Pay attention to gas fees, which can vary throughout the day
 
 **On Solana:**
+
 1. Visit [raydium.io](https://raydium.io/swap/)
 2. Connect your Phantom wallet
 3. Swap a small amount of SOL for another token like USDC
@@ -98,10 +107,12 @@ Start with these simple but effective interactions to begin building your on-cha
 ### 2. Mint a Free or Low-Cost NFT
 
 **On Ethereum:**
+
 1. Visit [OpenSea](https://opensea.io/) and explore free mints
 2. Or try platforms like [Zora](https://zora.co/) which often have low-cost minting options
 
 **On Solana:**
+
 1. Visit [Magic Eden](https://magiceden.io/) and look for free or low-cost NFTs
 2. Mint or purchase a low-cost NFT to establish NFT activity
 
@@ -118,15 +129,18 @@ Participating in testnets often leads to future airdrops:
 To strengthen your eligibility for social-aware airdrops:
 
 ### 1. Set Up Essential Accounts
+
 - Create a Twitter/X account focused on crypto
 - Join Discord servers of promising projects
 - Consider setting up accounts on Web3 social platforms like Farcaster or Lens
 
 ### 2. Link Your Wallet Where Possible
+
 - Many platforms allow you to verify ownership of your wallet
 - This creates a provable connection between your social identity and on-chain activity
 
 ### 3. Meaningful Engagement
+
 - Follow projects of interest
 - Participate in Discord discussions
 - Retweet and comment on project announcements

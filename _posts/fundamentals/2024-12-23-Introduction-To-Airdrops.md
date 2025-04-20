@@ -3,7 +3,7 @@ layout: post
 title: "Introduction To Airdrops"
 date: 2017-04-08 03:21:08 +0530
 categories: ["Airdrop-Basics"]
-tags: [ basics, introduction] # Tag names should always be lowercase
+tags: [basics, introduction] # Tag names should always be lowercase
 pin: true
 ---
 
@@ -54,6 +54,7 @@ The earnings from airdrops can be substantial for dedicated participants. Lookin
 ### Notable Airdrops (2021-2022)
 
 **2021 Highlights:**
+
 - ENS: $1,000-$15,000
 - DYDX: $5,000-$100,000
 - Biconomy: $8,000-$25,000
@@ -61,6 +62,7 @@ The earnings from airdrops can be substantial for dedicated participants. Lookin
 - Notional Finance: $7,000-$30,000
 
 **2022 Highlights:**
+
 - Project Galaxy: $500-$6,000
 - Goldfinch: $1,000-$12,000
 - Optimism: $1,000-$7,000
@@ -90,6 +92,7 @@ Eligibility criteria vary greatly from project to project. Some common requireme
 2. **Holding Specific Cryptocurrencies or NFTs**: Owning certain assets at the time of a snapshot. Convex Finance's airdrop targeted holders of veCRV and related assets.
 
 3. **Performing Specific Actions**: This could include:
+
    - Making a certain number of trades
    - Providing liquidity to a pool
    - Bridging assets between blockchains

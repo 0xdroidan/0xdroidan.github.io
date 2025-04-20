@@ -3,9 +3,10 @@ layout: post
 title: "How Airdrops are Hunted"
 date: 2017-04-08 03:21:08 +0530
 categories: ["Airdrop-Basics"]
-tags: [ basics, introduction] # Tag names should always be lowercase
+tags: [basics, introduction] # Tag names should always be lowercase
 pin: true
 ---
+
 # The Complete Guide to Cryptocurrency Airdrop Hunting
 
 ## What Is Airdrop Hunting?
@@ -26,12 +27,14 @@ Airdrop hunting is the **strategic process of positioning yourself to receive fr
 **What to do:** Actively use emerging crypto platforms and protocols that don't yet have their own token.
 
 **Examples:**
+
 - Trade on new decentralized exchanges (DEXs)
 - Use cross-chain bridges for asset transfers
 - Interact with DeFi lending/borrowing platforms
 - Engage with NFT marketplaces
 
 **Real-world success stories:**
+
 - 1inch, ParaSwap, dYdX users received significant airdrops
 - Hop Protocol rewarded bridge users
 - LooksRare and Blur rewarded NFT traders on Ethereum
@@ -43,11 +46,13 @@ Airdrop hunting is the **strategic process of positioning yourself to receive fr
 **What to do:** Contribute to the financial infrastructure of projects by locking up assets.
 
 **Examples:**
+
 - Provide liquidity on DEXs like Uniswap, JunoSwap, Osmosis
 - Stake governance tokens in protocols
 - Join validator nodes on proof-of-stake networks
 
 **Real-world success stories:**
+
 - AnimeSwap rewarded liquidity providers on Aptos
 - Early Lido stakers received LDO tokens
 - SailDAO rewarded users staking $WHALE
@@ -59,11 +64,13 @@ Airdrop hunting is the **strategic process of positioning yourself to receive fr
 **What to do:** Help projects test their platforms before mainnet launch.
 
 **Examples:**
+
 - Create accounts and execute transactions on testnets
 - Report bugs and provide feedback
 - Complete designated testing tasks
 
 **Real-world success stories:**
+
 - Movement Network and Plume Network rewarded testnet participants
 - Antimatter rewarded B2 Testnet users
 - Biconomy's Early Adopter Programs participants received tokens
@@ -75,11 +82,13 @@ Airdrop hunting is the **strategic process of positioning yourself to receive fr
 **What to do:** Become an active member of project communities.
 
 **Examples:**
+
 - Join and participate in Discord and Telegram groups
 - Follow and engage with projects on social media
 - Create content or educational materials about projects
 
 **Real-world success stories:**
+
 - zkApe rewarded Discord participants
 - THENA airdropped to active Discord members
 - Ribbon Finance rewarded community contributors
@@ -91,11 +100,13 @@ Airdrop hunting is the **strategic process of positioning yourself to receive fr
 **What to do:** Hold strategic assets and participate in on-chain governance.
 
 **Examples:**
+
 - Hold specific cryptocurrencies or NFTs
 - Vote on governance proposals
 - Delegate governance rights
 
 **Real-world success stories:**
+
 - ApeCoin was airdropped to BAYC and MAYC NFT holders
 - Convex Finance rewarded veCRV holders
 - Badger DAO rewarded SUSHI and Yearn.Finance governance participants
@@ -122,14 +133,18 @@ Airdrop hunting is the **strategic process of positioning yourself to receive fr
 ## Advanced Strategies
 
 ### Wallet Management
+
 Maintain separate wallets for different hunting strategies to:
+
 - Isolate risk
 - Track performance by strategy
 - Optimize gas fees
 - Protect your main holdings
 
 ### Network Diversification
+
 Spread your activity across multiple blockchains:
+
 - Ethereum
 - Solana
 - Cosmos ecosystem
@@ -137,7 +152,9 @@ Spread your activity across multiple blockchains:
 - Emerging Layer-1 chains
 
 ### Quest Platforms
+
 Leverage dedicated platforms that aggregate opportunities:
+
 - Galxe
 - Zealy
 - Guild.xyz
@@ -160,6 +177,7 @@ Leverage dedicated platforms that aggregate opportunities:
 ## The Future of Airdrop Hunting
 
 As the space evolves, expect:
+
 - More sophisticated eligibility criteria
 - Greater focus on valuable contributions over simple transactions
 - Integration with real-world activities and reputation systems
@@ -167,4 +185,4 @@ As the space evolves, expect:
 
 ---
 
-*Remember: Airdrop hunting is not guaranteed income. Results vary widely, and the crypto space evolves rapidly. Stay adaptable and focus on learning valuable skills while participating in the ecosystem.*
+_Remember: Airdrop hunting is not guaranteed income. Results vary widely, and the crypto space evolves rapidly. Stay adaptable and focus on learning valuable skills while participating in the ecosystem._

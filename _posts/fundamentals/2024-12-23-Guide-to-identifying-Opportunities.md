@@ -3,7 +3,7 @@ layout: post
 title: "Guide to identifying Opportunities"
 date: 2017-04-09 03:21:08 +0530
 categories: ["Airdrop-Basics"]
-tags: [ basics, introduction] # Tag names should always be lowercase
+tags: [basics, introduction] # Tag names should always be lowercase
 pin: true
 ---
 
@@ -44,6 +44,7 @@ Let's examine how to analyze a potential airdrop opportunity using zkSync as an 
 2. **On-Chain Analysis**: Use Dune dashboards to identify key metrics like bridge transfer volumes. In zkSync's case, simply depositing 0.1 ETH puts you ahead of 70% of users.
 
 3. **Activity Identification**: Based on comprehensive research, these activities have been potentially valuable for zkSync:
+
    - Making Gitcoin donations through zkSync
    - Using the mainnet regularly through dApps like ZigZag Exchange
    - Minting NFTs through the zkSync wallet
@@ -90,4 +91,4 @@ With dedicated effort and strategic participation, airdrop hunting can evolve fr
 
 Remember: The most successful airdrop hunters are those who become valuable community members first, and recipients second.
 
-This post is inpsired from 
+This post is inpsired from
