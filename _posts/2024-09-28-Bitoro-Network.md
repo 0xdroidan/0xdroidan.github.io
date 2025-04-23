@@ -2,8 +2,9 @@
 layout: post
 title: "Bitoro Network"
 date: 2024-09-28
-categories: ["defi", "arbitrum_ecosystem"]
+categories: ["defi", "arbitrum-ecosystem"]
 tags: [2k24, retroactive, all]
+pagetype: "project"
 ---
 
 ## Basic Information
