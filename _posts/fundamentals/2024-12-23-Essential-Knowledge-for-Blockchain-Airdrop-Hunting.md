@@ -4,7 +4,7 @@ title: "Essential Knowledge for Blockchain Airdrop Hunting"
 date: 2017-04-09 03:21:08 +0530
 categories: ["Airdrop-Basics"]
 tags: [basics, introduction] # Tag names should always be lowercase
-pin: true
+#pin: true
 ---
 
 Heard about people getting "free crypto" from airdrops but have no idea where to begin? You're not alone! This two-part guide will equip you with everything you need to know to start your airdrop hunting journey. In Part 1, we'll cover the essential knowledge you need before starting.

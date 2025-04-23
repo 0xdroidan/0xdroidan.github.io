@@ -4,7 +4,7 @@ title: "Guide to identifying Opportunities"
 date: 2017-04-09 03:21:08 +0530
 categories: ["Airdrop-Basics"]
 tags: [basics, introduction] # Tag names should always be lowercase
-pin: true
+#pin: true
 ---
 
 ## Key Criteria: Identifying Airdrop Factors

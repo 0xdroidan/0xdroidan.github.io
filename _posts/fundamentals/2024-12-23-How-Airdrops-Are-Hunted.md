@@ -4,7 +4,7 @@ title: "How Airdrops are Hunted"
 date: 2017-04-08 03:21:08 +0530
 categories: ["Airdrop-Basics"]
 tags: [basics, introduction] # Tag names should always be lowercase
-pin: true
+#pin: true
 ---
 
 # The Complete Guide to Cryptocurrency Airdrop Hunting
