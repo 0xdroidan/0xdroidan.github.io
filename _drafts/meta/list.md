@@ -69,3 +69,5 @@ mantra http://checker.mantra.zone
  singularityfinance https://singularityfinance.ai/testnet/claim
  unite https://verify.unite.io/connect
  gomblemoney https://token.gomblemoney.io/
+
+KGeN 
