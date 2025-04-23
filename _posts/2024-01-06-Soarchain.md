@@ -2,7 +2,7 @@
 layout: post
 title: "Soarchain"
 date: 2024-01-06
-categories: [DePIN, "infrastructure", "scaling", "performance"]
+categories: [depin, "infrastructure", "scaling", "performance"]
 tags: [testnet, holder, staking, 2k24, all]
 ---
 

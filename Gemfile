@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-
+gem "jekyll-include-cache"
 gem "jekyll-theme-chirpy", "~> 5.6", ">= 5.6.1"
 gem 'jekyll-compose', group: [:jekyll_plugins]
 group :test do
